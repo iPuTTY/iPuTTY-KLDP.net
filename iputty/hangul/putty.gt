@@ -1,0 +1,3417 @@
+# version.c:20 version.c:21 window.c:1207
+msgid " "
+msgstr ""
+
+# unicode.c:567
+msgid ""
+" !cL.Y|S\"Ca<--R~o+23'u|.,1o>///?"
+"AAAAAAACEEEEIIIIDNOOOOOxOUUUUYPBaaaaaaaceeeeiiiionooooo/ouuuuypy"
+msgstr ""
+
+# unicode.c:488
+msgid " DBCS"
+msgstr ""
+
+# window.c:3689
+msgid " HLMEIG"
+msgstr ""
+
+# window.c:414
+msgid " \t"
+msgstr ""
+
+# window.c:911 window.c:960
+msgid "%.70s (inactive)"
+msgstr "%.70s (¿ÀÇÁ¶óÀÎ)"
+
+# window.c:928
+msgid "%.70s Command Line Error"
+msgstr "%.70s ¸í·ÉÇà ¿¡·¯"
+
+# window.c:903 window.c:4363 window.c:4380
+msgid "%.70s Fatal Error"
+msgstr "%.70s Ä¡¸íÀû ¿¡·¯"
+
+# window.c:4454
+msgid "%.70s Sound Error"
+msgstr "%.70s »ç¿îµå ½Ã½ºÅÛ ¿¡·¯"
+
+# unicode.c:492
+msgid "%04x%s"
+msgstr ""
+
+# windlg.c:673
+msgid "%Y-%m-%d %H:%M:%S\t"
+msgstr ""
+
+# config.c:525 config.c:526 config.c:527 dialog.c:549
+msgid "%d"
+msgstr ""
+
+# settings.c:289 settings.c:553
+msgid "%d,%d,%d"
+msgstr ""
+
+# winstore.c:299
+msgid "%d:"
+msgstr ""
+
+# config.c:398
+msgid "%d\t(0x%02X)\t%c\t%d"
+msgstr ""
+
+# dialog.c:551
+msgid "%g"
+msgstr ""
+
+# window.c:295
+msgid "%p"
+msgstr ""
+
+# ssh.c:682 ssh.c:1623 ssh.c:2094 ssh.c:5918 winnet.c:1043 winnet.c:1188
+msgid "%s"
+msgstr ""
+
+# window.c:625
+msgid "%s - %s"
+msgstr ""
+
+# windlg.c:606
+msgid "%s Configuration"
+msgstr "%s ¼³Á¤"
+
+# windlg.c:607 windlg.c:641 window.c:614
+msgid "%s Error"
+msgstr "%s ¿¡·¯"
+
+# windlg.c:76
+msgid "%s Event Log"
+msgstr "%s »ç°Ç ·Î±×"
+
+# window.c:1704
+msgid "%s Exit Confirmation"
+msgstr "%s Á¾·á È®ÀÎ"
+
+# window.c:201
+msgid "%s Fatal Error"
+msgstr "%s Ä¡¸íÀû ¿¡·¯"
+
+# window.c:465 window.c:475
+msgid "%s Internal Error"
+msgstr "%s ³»ºÎ ¿¡·¯"
+
+# windlg.c:854
+msgid "%s Key File Warning"
+msgstr "%s Å° ÆÄÀÏ °æ°í"
+
+# windlg.c:169
+msgid "%s Licence"
+msgstr "%s ¶óÀÌ¼¾½º"
+
+# windlg.c:826
+msgid "%s Log to File"
+msgstr "%s ÆÄÀÏ·Î ·Î±× ³²±è"
+
+# windlg.c:640
+msgid "%s Reconfiguration"
+msgstr "%s Àç¼³Á¤"
+
+# windlg.c:739 windlg.c:785
+msgid "%s Security Alert"
+msgstr "%s º¸¾È °æ°í"
+
+# window.c:340
+msgid "%s Warning"
+msgstr "%s °æ°í"
+
+# settings.c:304 window.c:3863
+msgid "%s%d"
+msgstr ""
+
+# window.c:686
+msgid "&About %s"
+msgstr "%s¿¡ ´ëÇØ(&A)"
+
+# window.c:666
+msgid "&Duplicate Session"
+msgstr "°°Àº ¿¬°á ÇÏ³ª ´õ (&D)"
+
+# window.c:663
+msgid "&Event Log"
+msgstr "»ç°Ç ·Î±× (&E)"
+
+# window.c:682
+msgid "&Full Screen"
+msgstr "ÀüÃ¼ È­¸é (&F)"
+
+# window.c:685
+msgid "&Help"
+msgstr "µµ¿ò¸»(&H)"
+
+# config.c:1421
+msgid "&Paste"
+msgstr "ºÙ¿©³Ö±â (&P)"
+
+# config.c:877
+msgid ""
+"(Log file name can contain &Y, &M, &D for date, &T for time, and &H for host "
+"name)"
+msgstr ""
+"(·Î±× ÆÄÀÏ ÀÌ¸§¿£ ³¯Â¥´Â &Y, &M, &D, ½Ã°£Àº &T, È£½ºÆ® ÀÌ¸§À¸·Î´Â &H¸¦ ¾µ ¼ö "
+"ÀÖ½À´Ï´Ù)"
+
+# ssh.c:3325 ssh.c:3328 ssh.c:3337 ssh.c:3357 ssh.c:3360 ssh.c:5441
+# ssh.c:5444 ssh.c:5453 ssh.c:5472 ssh.c:5475 window.c:3865
+msgid ")"
+msgstr ""
+
+# window.c:3197
+msgid "*"
+msgstr ""
+
+# unicode.c:568
+msgid "*#****o~**+++++-----++++|****L."
+msgstr ""
+
+# window.c:3174
+msgid "+"
+msgstr ""
+
+# settings.c:99 settings.c:135 settings.c:305 ssh.c:3935 ssh.c:3942
+# ssh.c:3952 ssh.c:3965 ssh.c:3975 ssh.c:3982 ssh.c:3991 ssh.c:4000
+# unicode.c:492 window.c:3863
+msgid ","
+msgstr ""
+
+# window.c:3204
+msgid ", $%02x"
+msgstr ""
+
+# window.c:3202
+msgid ", '%c'"
+msgstr ""
+
+# window.c:3853
+msgid ", (U+%04x)"
+msgstr ""
+
+# window.c:3857
+msgid ", ACH(%d)"
+msgstr ""
+
+# window.c:3861
+msgid ", ASC("
+msgstr ""
+
+# window.c:3216
+msgid ", C"
+msgstr ""
+
+# window.c:3218
+msgid ", E"
+msgstr ""
+
+# window.c:3207
+msgid ", KB0=%02x"
+msgstr ""
+
+# window.c:3209
+msgid ", KB1=%02x"
+msgstr ""
+
+# window.c:3211
+msgid ", KB2=%02x"
+msgstr ""
+
+# window.c:3855
+msgid ", LCH(%d)"
+msgstr ""
+
+# window.c:3231
+msgid ", M%02x=%02x"
+msgstr ""
+
+# window.c:3214
+msgid ", S"
+msgstr ""
+
+# window.c:3198
+msgid ", S%02x"
+msgstr ""
+
+# window.c:3220
+msgid ", U"
+msgstr ""
+
+# config.c:96
+msgid "-- warn below here --"
+msgstr "-- ÀÌÇÏ´Â À§ÇèÇÔ --"
+
+# window.c:358
+msgid "-P"
+msgstr ""
+
+# window.c:326
+msgid "-cleanup"
+msgstr ""
+
+# window.c:3177
+msgid ". U"
+msgstr ""
+
+# window.c:2321
+msgid "..."
+msgstr ""
+
+# config.c:992
+msgid "... in this many seconds"
+msgstr "¸ØÃã ½Ã°£(T) (ÃÊ)"
+
+# window.c:3179
+msgid ".\n"
+msgstr ""
+
+# winstore.c:365
+msgid "/"
+msgstr ""
+
+# settings.c:543 settings.c:543 settings.c:544
+msgid "0,0,0"
+msgstr ""
+
+# settings.c:566
+msgid "0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0"
+msgstr ""
+
+# settings.c:545
+msgid "0,0,187"
+msgstr ""
+
+# settings.c:567
+msgid "0,1,2,1,1,1,1,1,1,1,1,1,1,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1,1"
+msgstr ""
+
+# settings.c:545
+msgid "0,187,0"
+msgstr ""
+
+# settings.c:546
+msgid "0,187,187"
+msgstr ""
+
+# settings.c:544
+msgid "0,255,0"
+msgstr ""
+
+# winstore.c:16
+msgid "0123456789ABCDEF"
+msgstr ""
+
+# config.c:1487
+msgid "1"
+msgstr "SSH1"
+
+# config.c:1486
+msgid "1 only"
+msgstr "SSH1¸¸"
+
+# settings.c:570 settings.c:571
+msgid "1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1,1"
+msgstr ""
+
+# settings.c:569
+msgid "1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,1"
+msgstr ""
+
+# settings.c:568
+msgid "1,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,1,1,1,2"
+msgstr ""
+
+# settings.c:544
+msgid "187,0,0"
+msgstr ""
+
+# settings.c:546
+msgid "187,0,187"
+msgstr ""
+
+# settings.c:545
+msgid "187,187,0"
+msgstr ""
+
+# settings.c:543 settings.c:547
+msgid "187,187,187"
+msgstr ""
+
+# config.c:1488
+msgid "2"
+msgstr "SSH2"
+
+# config.c:1489
+msgid "2 only"
+msgstr "SSH2¸¸"
+
+# settings.c:572 settings.c:573
+msgid "2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,2,1,2,2,2,2,2,2,2,2"
+msgstr ""
+
+# settings.c:543 settings.c:547
+msgid "255,255,255"
+msgstr ""
+
+# settings.c:545
+msgid "255,255,85"
+msgstr ""
+
+# settings.c:546
+msgid "255,85,255"
+msgstr ""
+
+# settings.c:544
+msgid "255,85,85"
+msgstr ""
+
+# settings.c:411
+msgid "38400,38400"
+msgstr ""
+
+# config.c:92 ssh.c:2480
+msgid "3DES"
+msgstr ""
+
+# settings.c:18
+msgid "3des"
+msgstr ""
+
+# settings.c:547
+msgid "85,255,255"
+msgstr ""
+
+# settings.c:545
+msgid "85,255,85"
+msgstr ""
+
+# settings.c:546
+msgid "85,85,255"
+msgstr ""
+
+# settings.c:543 settings.c:544
+msgid "85,85,85"
+msgstr ""
+
+# ssh.c:3323 ssh.c:3335 ssh.c:5439 ssh.c:5451 ssh.c:5470 window.c:434
+# winstore.c:338
+msgid ":"
+msgstr ""
+
+# winstore.c:297
+msgid "@"
+msgstr ""
+
+# config.c:95
+msgid "AES (SSH 2 only)"
+msgstr "AES (SSH2 ¸¸)"
+
+# window.c:3191
+msgid "ALT"
+msgstr ""
+
+# config.c:427
+msgid "ANSI Black"
+msgstr "ANSI °ËÀº»ö"
+
+# config.c:427
+msgid "ANSI Black Bold"
+msgstr "ANSI °ËÀº»ö(±½À½)"
+
+# config.c:431
+msgid "ANSI Blue"
+msgstr "ANSI ÆÄ¶û"
+
+# config.c:431
+msgid "ANSI Blue Bold"
+msgstr "ANSI ÆÄ¶û(±½À½)"
+
+# config.c:433
+msgid "ANSI Cyan"
+msgstr "ANSI ÇÏ´Ã»ö"
+
+# config.c:433
+msgid "ANSI Cyan Bold"
+msgstr "ANSI ÇÏ´Ã»ö(±½À½)"
+
+# config.c:429
+msgid "ANSI Green"
+msgstr "ANSI ³ì»ö"
+
+# config.c:429
+msgid "ANSI Green Bold"
+msgstr "ANSI ³ì»ö(±½À½)"
+
+# config.c:432
+msgid "ANSI Magenta"
+msgstr "ANSI ¸¶Á¨Å¸"
+
+# config.c:432
+msgid "ANSI Magenta Bold"
+msgstr "ANSI ¸¶Á¨Å¸(±½À½)"
+
+# config.c:428
+msgid "ANSI Red"
+msgstr "ANSI »¡°­"
+
+# config.c:428
+msgid "ANSI Red Bold"
+msgstr "ANSI »¡°­(±½À½)"
+
+# config.c:434
+msgid "ANSI White"
+msgstr "ANSI ÇÏ¾ç"
+
+# config.c:434
+msgid "ANSI White Bold"
+msgstr "ANSI ÇÏ¾ç(±½À½)"
+
+# config.c:430
+msgid "ANSI Yellow"
+msgstr "ANSI ³ë¶û"
+
+# config.c:430
+msgid "ANSI Yellow Bold"
+msgstr "ANSI ³ë¶û(±½À½)"
+
+# wincfg.c:45
+msgid "About"
+msgstr "µµ¿ò"
+
+# windlg.c:195
+msgid "About %s"
+msgstr "%s¿¡ ´ëÇØ"
+
+# wincfg.c:249
+msgid "Action of mouse buttons:"
+msgstr "¸¶¿ì½º ¹öÆ° Æ¯¼º:"
+
+# config.c:977
+msgid "Action to happen when a bell occurs:"
+msgstr "º§ ¿ï¸² È¿°ú (B):"
+
+# config.c:1421
+msgid "Active"
+msgstr "´Éµ¿"
+
+# config.c:1387 config.c:1588
+msgid "Add"
+msgstr "Ãß°¡ (D)"
+
+# config.c:1585
+msgid "Add new forwarded port:"
+msgstr "Æ÷¿öµåµÉ Æ÷Æ® Ãß°¡:"
+
+# config.c:1152 wincfg.c:192
+msgid "Adjust how %s displays line drawing characters"
+msgstr "%s°¡ ¼±±×¸² ¹®ÀÚ¸¦ Ãâ·ÂÇÏ´Â ¹æ¹ý"
+
+# config.c:1152 wincfg.c:192
+msgid "Adjust how %s handles line drawing characters"
+msgstr "%s°¡ ¼±±×¸² ¹®ÀÚ¸¦ ´Ù·ç´Â ¹æ¹ý"
+
+# config.c:1125
+msgid "Adjust the behaviour of the window title"
+msgstr "Ã¢ Á¦¸ñ Á¶Àý"
+
+# config.c:1224
+msgid "Adjust the precise colours %s displays"
+msgstr "»ö»ó ¹Ì¼¼ Á¶Àý"
+
+# config.c:1086
+msgid "Adjust the use of the cursor"
+msgstr "Ä¿¼­ µ¿ÀÛ Á¶Àý"
+
+# config.c:1105
+msgid "Adjust the use of the mouse pointer"
+msgstr "¸¶¿ì½º Æ÷ÀÎÅÍ µ¿ÀÛ Á¶Àý"
+
+# config.c:1111 wincfg.c:170
+msgid "Adjust the window border"
+msgstr "Ã¢Æ² Á¶Àý"
+
+# settings.c:222 settings.c:474
+msgid "AgentFwd"
+msgstr ""
+
+# config.c:1521
+msgid "Allow agent forwarding"
+msgstr "¿¡ÀÌÀüÆ® Æ÷¿öµù Çã¿ë (F)"
+
+# config.c:1524
+msgid "Allow attempted changes of username in SSH2"
+msgstr "SSH2¿¡¼­ »ç¿ëÀÚ ÀÌ¸§ º¯°æÀ» ½ÃµµÇÔ (U)"
+
+# settings.c:249 settings.c:502
+msgid "AltF4"
+msgstr ""
+
+# wincfg.c:96
+msgid "AltGr acts as Compose key"
+msgstr "È¸»ö Alt¸¦ Á¶ÇÕ Å°·Î »ç¿ë (T)"
+
+# settings.c:251 settings.c:504
+msgid "AltOnly"
+msgstr ""
+
+# settings.c:250 settings.c:503
+msgid "AltSpace"
+msgstr ""
+
+# config.c:842
+msgid "Always"
+msgstr "Ç×»ó"
+
+# config.c:884
+msgid "Always append to the end of it"
+msgstr "´Ã ÆÄÀÏ ³¡¿¡ Ãß°¡ÇÔ"
+
+# config.c:883
+msgid "Always overwrite it"
+msgstr "´Ã µ¤¾î ¾¸"
+
+# settings.c:259 settings.c:513
+msgid "AlwaysOnTop"
+msgstr ""
+
+# settings.c:258 settings.c:511
+msgid "Answerback"
+msgstr ""
+
+# config.c:908
+msgid "Answerback to ^E:"
+msgstr "^E¿¡ ´ëÇÑ ÀÀ´ä (S):"
+
+# config.c:963 config.c:967
+msgid "Application"
+msgstr "ÇÁ·Î±×·¥"
+
+# config.c:958
+msgid "Application keypad settings:"
+msgstr "¾ÖÇÃ¸®ÄÉÀÌ¼Ç Å°ÆÐµå ¼³Á¤:"
+
+# settings.c:246 settings.c:499
+msgid "ApplicationCursorKeys"
+msgstr ""
+
+# settings.c:247 settings.c:500
+msgid "ApplicationKeypad"
+msgstr ""
+
+# config.c:752
+msgid "Apply"
+msgstr "Àû¿ë (A)"
+
+# window.c:1707
+msgid "Are you sure you want to close this session?"
+msgstr "ÁøÂ¥·Î ÀÌ Á¢¼ÓÀ» ´Ý°Ú½À´Ï±î?"
+
+# config.c:885
+msgid "Ask the user every time"
+msgstr "¸Å¹ø »ç¿ëÀÚ¿¡°Ô ¹°¾î º½"
+
+# config.c:1510
+msgid "Attempt TIS or CryptoCard auth (SSH1)"
+msgstr "SSH1¿¡¼­ TIS³ª CryptoCard ÀÎÁõÀ» ½Ãµµ (M)"
+
+# config.c:1514
+msgid "Attempt \"keyboard-interactive\" auth (SSH2)"
+msgstr "SSH2¿¡¼­ \"Å°º¸µå·Î Á÷Á¢ ÀÔ·Â\"ÀÎÁõÀ» ½Ãµµ (I)"
+
+# wincfg.c:269
+msgid "Attempt to use logical palettes"
+msgstr "³í¸® ÆÈ·¹Æ® »ç¿ëÀ» ½Ãµµ (L)"
+
+# settings.c:227 settings.c:481
+msgid "AuthKI"
+msgstr ""
+
+# settings.c:226 settings.c:480
+msgid "AuthTIS"
+msgstr ""
+
+# config.c:1509
+msgid "Authentication methods"
+msgstr "ÀÎÁõ ¹æ¹ý"
+
+# config.c:1520
+msgid "Authentication parameters"
+msgstr "ÀÎÁõ ÀÎÀÚ"
+
+# config.c:188 config.c:917 config.c:923 config.c:1337
+msgid "Auto"
+msgstr "ÀÚµ¿"
+
+# config.c:893
+msgid "Auto wrap mode initially on"
+msgstr "±âº»À¸·Î ÀÚµ¿ ÁÙ³Ñ±è (W)"
+
+# config.c:1267
+msgid "Auto-login username"
+msgstr "ÀÚµ¿ ·Î±×ÀÎ »ç¿ëÀÚ (U)"
+
+# settings.c:275 settings.c:530
+msgid "AutoWrapMode"
+msgstr ""
+
+# settings.c:318 settings.c:603
+msgid "BCE"
+msgstr ""
+
+# config.c:1415
+msgid "BSD (commonplace)"
+msgstr "BSD (Åë»ó)"
+
+# settings.c:234 settings.c:487
+msgid "BackspaceIsDelete"
+msgstr ""
+
+# config.c:768
+msgid "Basic options for your %s session"
+msgstr "%s ¼¼¼Ç ±âº» ¿É¼Ç"
+
+# settings.c:266 settings.c:521
+msgid "Beep"
+msgstr ""
+
+# wincfg.c:134
+msgid "Beep using the PC speaker"
+msgstr "PC ½ºÇÇÄ¿¸¦ ÀÌ¿ëÇØ¼­ º§¼Ò¸® ³¿"
+
+# settings.c:267 settings.c:522
+msgid "BeepInd"
+msgstr ""
+
+# config.c:986
+msgid "Bell is temporarily disabled when over-used"
+msgstr "º§¼Ò¸®°¡ ½Ã²ô·¯¿ï ¶§ ÀÓ½Ã·Î ¹«½ÃÇÔ (D)"
+
+# settings.c:269 settings.c:524
+msgid "BellOverload"
+msgstr ""
+
+# settings.c:270 settings.c:525
+msgid "BellOverloadN"
+msgstr ""
+
+# settings.c:272 settings.c:527
+msgid "BellOverloadS"
+msgstr ""
+
+# settings.c:271 settings.c:526
+msgid "BellOverloadT"
+msgstr ""
+
+# settings.c:268 settings.c:523
+msgid "BellWaveFile"
+msgstr ""
+
+# settings.c:265 settings.c:519
+msgid "BlinkCur"
+msgstr ""
+
+# settings.c:319 settings.c:604
+msgid "BlinkText"
+msgstr ""
+
+# config.c:1091
+msgid "Block"
+msgstr "»ç°¢Çü (B)"
+
+# config.c:93 ssh.c:2482
+msgid "Blowfish"
+msgstr ""
+
+# config.c:1244
+msgid "Blue"
+msgstr "ÆÄ¶û"
+
+# settings.c:285 settings.c:540
+msgid "BoldAsColour"
+msgstr ""
+
+# settings.c:355 settings.c:652
+msgid "BoldFont"
+msgstr ""
+
+# config.c:1220
+msgid "Bolded text is a different colour"
+msgstr "±½Àº ±Û¾¾¸¦ ´Ù¸¥ »ö±ò·Î Ç¥½Ã (B)"
+
+# settings.c:350 settings.c:646
+msgid "BugDHGEx2"
+msgstr ""
+
+# settings.c:348 settings.c:644
+msgid "BugDeriveKey2"
+msgstr ""
+
+# settings.c:347 settings.c:637
+msgid "BugHMAC2"
+msgstr ""
+
+# settings.c:344 settings.c:632
+msgid "BugIgnore1"
+msgstr ""
+
+# settings.c:351 settings.c:647
+msgid "BugPKSessID2"
+msgstr ""
+
+# settings.c:345 settings.c:633
+msgid "BugPlainPW1"
+msgstr ""
+
+# settings.c:346 settings.c:634
+msgid "BugRSA1"
+msgstr ""
+
+# settings.c:349 settings.c:645
+msgid "BugRSAPad2"
+msgstr ""
+
+# settings.c:639
+msgid "BuggyMAC"
+msgstr ""
+
+# window.c:678
+msgid "C&lear Scrollback"
+msgstr "ÀÌÀü È­¸é ºñ¿ò (&C)"
+
+# window.c:677
+msgid "C&opy All to Clipboard"
+msgstr "Å¬¸³º¸µå·Î ÀüÃ¼ º¹»ç (&O)"
+
+# unicode.c:1109
+msgid "CP%03d"
+msgstr ""
+
+# unicode.c:404
+msgid "CP437"
+msgstr ""
+
+# unicode.c:430
+msgid "CP620 (Mazovia)"
+msgstr "CP620 (¸¶Á¶ºñ¾Æ)"
+
+# unicode.c:405
+msgid "CP819"
+msgstr ""
+
+# unicode.c:406
+msgid "CP878"
+msgstr ""
+
+# unicode.c:407
+msgid "CP932"
+msgstr ""
+
+# settings.c:593 unicode.c:408
+msgid "CP949"
+msgstr ""
+
+# unicode.c:409
+msgid "CP950"
+msgstr ""
+
+# window.c:3188
+msgid "CTRL"
+msgstr ""
+
+# config.c:758
+msgid "Cancel"
+msgstr "Ãë¼Ò (C)"
+
+# wincfg.c:182
+msgid "Caps Lock acts as Cyrillic switch"
+msgstr "CapsLockÀ» Å°¸± ÀüÈ¯Å°·Î »ç¿ë"
+
+# settings.c:311 settings.c:596
+msgid "CapsLockCyr"
+msgstr ""
+
+# windlg.c:366
+msgid "Cate&gory:"
+msgstr "ºÐ·ù(&G)"
+
+# window.c:675
+msgid "Chan&ge Settings..."
+msgstr "¼³Á¤ º¯°æ (&G)"
+
+# wincfg.c:287
+msgid "Change font size only when maximised"
+msgstr "ÃÖ´ëÈ­ µÇ¾úÀ» ¶§¿¡¸¸ ±Û²Ã Å©±â Á¶Á¤"
+
+# wincfg.c:285
+msgid "Change the number of rows and columns"
+msgstr "°¡·Î ¼¼·Î Å©±â Á¶Àý"
+
+# config.c:939
+msgid "Change the sequences sent by:"
+msgstr "Å° ÀÔ·Â Àü´Þ ¹æ¹ý Á¶Àý:"
+
+# wincfg.c:286
+msgid "Change the size of the font"
+msgstr "±Û²Ã Å©±â¸¦ Á¶Àý"
+
+# settings.c:223 settings.c:475
+msgid "ChangeUsername"
+msgstr ""
+
+# winstore.c:177 winstore.c:209
+msgid "CharSet"
+msgstr ""
+
+# config.c:1192
+msgid "Character classes:"
+msgstr "¹®ÀÚ Á¾·ù (E):"
+
+# config.c:1147
+msgid "Character set translation on received data"
+msgstr "¼ö½Å µ¥ÀÌÅÍÀÇ ¹®ÀÚ ¼Â º¯È¯"
+
+# config.c:1636
+msgid "Chokes on Diffie-Hellman group exchange"
+msgstr "µðÇÇ-Çï¸¸ ±×·ì ±³È¯ ¹®Á¦ (D)"
+
+# config.c:1624
+msgid "Chokes on SSH1 RSA authentication"
+msgstr "SSH1 RSA ÀÎÁõ ¹®Á¦ (R)"
+
+# config.c:1618
+msgid "Chokes on SSH1 ignore messages"
+msgstr "SSH1 ¹«½Ã ¸Þ½ÃÁö ¹®Á¦ (I)"
+
+# settings.c:224 settings.c:476
+msgid "Cipher"
+msgstr ""
+
+# config.c:838
+msgid "Close window on exit:"
+msgstr "Á¾·á½Ã¿¡ Ã¢À» ´ÝÀ½ (W):"
+
+# settings.c:180 settings.c:399
+msgid "CloseOnExit"
+msgstr ""
+
+# settings.c:288 settings.c:551
+msgid "Colour%d"
+msgstr ""
+
+# config.c:1053
+msgid "Columns"
+msgstr "°¡·Î (M)"
+
+# settings.c:252 settings.c:505
+msgid "ComposeKey"
+msgstr ""
+
+# settings.c:221 settings.c:473
+msgid "Compression"
+msgstr ""
+
+# wincfg.c:254
+msgid "Compromise (Middle extends, Right pastes)"
+msgstr "¾îÁß°£ (ÈÙ È®Àå, ¿À¸¥ÂÊ ºÙ¿©³Ö±â)"
+
+# config.c:1081
+msgid "Configure the appearance of %s's window"
+msgstr "%s Ã¢ ¸ð¾çÀ» ¼³Á¤ÇÕ´Ï´Ù."
+
+# config.c:1120
+msgid "Configure the behaviour of %s's window"
+msgstr "%s Ã¢ Æ¯¼ºÀ» ¼³Á¤ÇÕ´Ï´Ù."
+
+# config.c:1258 config.c:1261 config.c:1273 config.c:1281
+msgid "Connection"
+msgstr "Á¢¼Ó"
+
+# window.c:963
+msgid "Connection closed by remote host"
+msgstr "Á¢¼ÓÀÌ ²÷¾îÁ³½À´Ï´Ù."
+
+# config.c:1295 config.c:1298
+msgid "Connection/Proxy"
+msgstr "Á¢¼Ó/ÇÁ¶ô½Ã"
+
+# config.c:1438 config.c:1441
+msgid "Connection/Rlogin"
+msgstr "Á¢¼Ó/rlogin"
+
+# config.c:1463 config.c:1466 config.c:1473 config.c:1491
+msgid "Connection/SSH"
+msgstr "Á¢¼Ó/SSH"
+
+# config.c:1505 config.c:1508 config.c:1519
+msgid "Connection/SSH/Auth"
+msgstr "Á¢¼Ó/SSH/ÀÎÁõ"
+
+# config.c:1613 config.c:1616
+msgid "Connection/SSH/Bugs"
+msgstr "Á¢¼Ó/SSH/¹ö±×"
+
+# config.c:1536 config.c:1539 config.c:1554
+msgid "Connection/SSH/Tunnels"
+msgstr "Á¢¼Ó/SSH/ÅÍ³Î¸µ"
+
+# config.c:1365 config.c:1369 config.c:1406
+msgid "Connection/Telnet"
+msgstr "Á¢¼Ó/ÅÚ³Ý"
+
+# config.c:1328
+msgid "Consider proxying local host connections"
+msgstr "·ÎÄÃ È£½ºÆ® Á¢¼ÓÀ» ÇÁ¶ô½Ã¿¡¼­ °í·ÁÇÔ (X)"
+
+# config.c:985
+msgid "Control the bell overload behaviour"
+msgstr "ÀÏ½ÃÀûÀÎ º§¼Ò¸® °úºÎÇÏ Á¦¾î"
+
+# config.c:1060 wincfg.c:60
+msgid "Control the scrollback in the window"
+msgstr "Ã¢ ÀÌÀü ³»¿ë ¿Ã·Áº¸±â ¼³Á¤"
+
+# config.c:1189
+msgid "Control the select-one-word-at-a-time mode"
+msgstr "Å¬¸¯ÇØ¼­ ÇÑ ´Ü¾î¸¸ ¼±ÅÃÇÏ±â ¼³Á¤"
+
+# config.c:1175 wincfg.c:248
+msgid "Control use of mouse"
+msgstr "¸¶¿ì½º ¼³Á¤"
+
+# config.c:944
+msgid "Control-? (127)"
+msgstr "Ctrl-? (127)"
+
+# wincfg.c:99
+msgid "Control-Alt is different from AltGr"
+msgstr "Ctrl-Alt¸¦ È¸»ö Alt¿Í ±¸ºÐ (D)"
+
+# config.c:944
+msgid "Control-H"
+msgstr "Ctrl-H"
+
+# config.c:1170
+msgid "Copy and paste line drawing characters as lqqqk"
+msgstr "VT100 ¼±±×¸² ¹®ÀÚ¸¦ lqqqk·Î »Ñ¸² (D)"
+
+# settings.c:253 settings.c:506
+msgid "CtrlAltKeys"
+msgstr ""
+
+# unicode.c:565
+msgid ""
+"CueaaaaceeeiiiAAE**ooouuyOUc$YPsaiounNao?++**!<>###||||++||++++++--|-+||+"
+"+--|-+----++++++++##||#aBTPEsyt******EN=+><++-=... n2* "
+msgstr ""
+
+# settings.c:264 settings.c:518
+msgid "CurType"
+msgstr ""
+
+# config.c:426
+msgid "Cursor Colour"
+msgstr "Ä¿¼­ »ö±ò"
+
+# config.c:426
+msgid "Cursor Text"
+msgstr "Ä¿¼­ ±ÛÀÚ"
+
+# config.c:1087
+msgid "Cursor appearance:"
+msgstr "Ä¿¼­ ¸ð¾ç:"
+
+# config.c:1094
+msgid "Cursor blinks"
+msgstr "Ä¿¼­ ±ôºýÀÓ (B)"
+
+# wincfg.c:149
+msgid "Custom sound file to play as a bell:"
+msgstr "º§ ¼Ò¸®·Î »ç¿ëÇÒ ¼Ò¸® ÆÄÀÏ:"
+
+# config.c:896
+msgid "DEC Origin Mode initially on"
+msgstr "DEC ÁÙ ¸ðµå¸¦ ±âº»À¸·Î ÄÔ"
+
+# unicode.c:392
+msgid "DEC-MCS"
+msgstr ""
+
+# settings.c:274 settings.c:529
+msgid "DECOriginMode"
+msgstr ""
+
+# config.c:94
+msgid "DES"
+msgstr ""
+
+# config.c:1262 config.c:1370 config.c:1442 config.c:1467
+msgid "Data to send to the server"
+msgstr "¼­¹ö¿¡ º¸³¾ µ¥ÀÌÅÍ"
+
+# config.c:425
+msgid "Default Background"
+msgstr "±âº» ¹è°æ»ö"
+
+# config.c:425
+msgid "Default Bold Background"
+msgstr "±âº» ¹è°æ»ö(±½À½)"
+
+# config.c:424
+msgid "Default Bold Foreground"
+msgstr "±âº» ±ÛÀÚ»ö(±½À½)"
+
+# config.c:424
+msgid "Default Foreground"
+msgstr "±âº» ±ÛÀÚ»ö"
+
+# config.c:230 config.c:302 config.c:309 settings.c:672 settings.c:674
+# settings.c:721 settings.c:729 settings.c:733 winstore.c:72 winstore.c:120
+msgid "Default Settings"
+msgstr "±âº» ¼³Á¤"
+
+# config.c:1180
+msgid "Default selection mode (Alt+drag does the other one):"
+msgstr "±âº» ¿µ¿ª ¼±ÅÃ ¸ðµå (Alt+µå·¡±×´Â ´Ù¸§):"
+
+# config.c:830
+msgid "Delete"
+msgstr "Áö¿ò(D)"
+
+# config.c:1597
+msgid "Destination"
+msgstr "´ë»ó (I)"
+
+# config.c:1617
+msgid "Detection of known bugs in SSH servers"
+msgstr "SSH ¼­¹öÀÇ ¾Ë·ÁÁø ¹ö±× ÇÇÇØ°¡±â"
+
+# version.c:10
+msgid "Development snapshot "
+msgstr ""
+
+# config.c:1040
+msgid "Disable Arabic text shaping"
+msgstr "¾Æ¶ø¾î Ãâ·ÂÀ» »ç¿ëÇÏÁö ¾ÊÀ½ (L)"
+
+# config.c:1283
+msgid "Disable Nagle's algorithm (TCP_NODELAY option)"
+msgstr "³×ÀÌ±Û ¾Ë°í¸®Áò »ç¿ë ¾È ÇÔ (N)"
+
+# config.c:1010
+msgid "Disable application cursor keys mode"
+msgstr "¾ÖÇÃ¸®ÄÉÀÌ¼Ç Ä¿¼­ Å° ¸ðµå »ç¿ë ¾È ÇÔ (U)"
+
+# config.c:1013
+msgid "Disable application keypad mode"
+msgstr "¾ÖÇÃ¸®ÄÉÀÌ¼Ç Å°ÆÐµå ¸ðµå »ç¿ë ¾È ÇÔ (K)"
+
+# config.c:1043
+msgid "Disable bidirectional text display"
+msgstr "¿À¸¥ÂÊ¿¡¼­ ¿ÞÂÊÀ¸·Î ±Û¾²±â »ç¿ë ¾È ÇÔ (D)"
+
+# config.c:1033
+msgid "Disable destructive backspace on server sending ^?"
+msgstr "¼­¹ö°¡ º¸³»´Â ^? »èÁ¦¸¦ »ç¿ë ¾È ÇÔ (B)"
+
+# config.c:1030
+msgid "Disable remote window title querying (SECURITY)"
+msgstr "¿ø°Ý¿¡¼­ÀÇ Ã¢ Á¦¸ñ ¾Ë¾Æ³»±â »ç¿ë ¾È ÇÔ (Q)"
+
+# config.c:1036
+msgid "Disable remote-controlled character set configuration"
+msgstr "¿ø°Ý ¹®ÀÚ ¼Â ¼³Á¤ »ç¿ë ¾È ÇÔ (R)"
+
+# config.c:1019
+msgid "Disable remote-controlled terminal resizing"
+msgstr "¿ø°Ý Ã¢ Å©±â Á¶Àý »ç¿ë ¾È ÇÔ (S)"
+
+# config.c:1026
+msgid "Disable remote-controlled window title changing"
+msgstr "¿ø°Ý Ã¢ Á¦¸ñ º¯°æ »ç¿ë ¾È ÇÔ (T)"
+
+# config.c:1023
+msgid "Disable switching to alternate terminal screen"
+msgstr "´ëÃ¼ ÅÍ¹Ì³Î ½ºÅ©¸° º¯°æ ±â´É »ç¿ë ¾È ÇÔ (W)"
+
+# config.c:1016
+msgid "Disable xterm-style mouse reporting"
+msgstr "xterm ½ºÅ¸ÀÏ ¸¶¿ì½º »ç¿ë ¾È ÇÔ"
+
+# settings.c:278 settings.c:539
+msgid "DisableArabicShaping"
+msgstr ""
+
+# wincfg.c:162
+msgid "DisableBidi"
+msgstr ""
+
+# wincfg.c:162
+msgid "Disabled"
+msgstr "»ç¿ë ¾È ÇÔ"
+
+# config.c:1064
+msgid "Display scrollbar"
+msgstr "½ºÅ©·Ñ ¹Ù º¸ÀÓ (D)"
+
+# wincfg.c:61
+msgid "Display scrollbar in full screen mode"
+msgstr "ÀüÈ­¸é ¸ðµå¿¡¼­ ½ºÅ©·Ñ ¹Ù º¸ÀÓ (I)"
+
+# config.c:1332
+msgid "Do DNS name lookup at proxy end:"
+msgstr "ÇÁ¶ô½Ã Á¢¼Ó¿¡ ´ëÇØ DNS ³×ÀÓÀ» Ã£À½:"
+
+# config.c:1474
+msgid "Don't allocate a pseudo-terminal"
+msgstr "¼öµµ(pseudo)-ÅÍ¹Ì³¯À» ÇÒ´çÇÏÁö ¾ÊÀ½"
+
+# config.c:1605
+msgid "Dynamic"
+msgstr "µ¿Àû (Y)"
+
+# config.c:954
+msgid "ESC[n~"
+msgstr ""
+
+# config.c:1295
+msgid "Enable TCP keepalives (SO_KEEPALIVE option)"
+msgstr "TCP Á¢¼ÓÀ¯Áö »ç¿ë ÇÔ (SO_KEEPALIVE ¿É¼Ç)"
+
+# config.c:1540
+msgid "Enable X11 forwarding"
+msgstr "X11 Æ÷¿öµù »ç¿ë (E)"
+
+# config.c:905
+msgid "Enable blinking text"
+msgstr "±ÛÀÚ ±ôºýÀÓ »ç¿ë (N)"
+
+# wincfg.c:181
+msgid "Enable character set translation on input data"
+msgstr "ÀÔ·Â µ¥ÀÌÅÍÀÇ ¹®ÀÚ ¼Â º¯È¯ »ç¿ë"
+
+# config.c:1478
+msgid "Enable compression"
+msgstr "¾ÐÃà Çã¿ë (E)"
+
+# wincfg.c:95
+msgid "Enable extra keyboard features:"
+msgstr "Å°º¸µå ºÎ°¡ ±â´É:"
+
+# config.c:1497
+msgid "Enable legacy use of single-DES in SSH 2"
+msgstr "SSH 2¿¡¼­ ´ÜÀÏ-DES ÇÏÀ§ È£È¯¼º »ç¿ë (I)"
+
+# config.c:1007
+msgid "Enabling and disabling advanced terminal features"
+msgstr "ºÎ°¡ÀûÀÎ ÅÍ¹Ì³Î ±â´ÉµéÀ» ÄÑ°Å³ª ²ü´Ï´Ù."
+
+# config.c:1492
+msgid "Encryption cipher selection policy:"
+msgstr "¾ÏÈ£ ¾Ë°í¸®Áò ¼±ÅÃ Á¤Ã¥ (S):"
+
+# config.c:1491
+msgid "Encryption options"
+msgstr "¾ÏÈ£È­ ¿É¼Ç"
+
+# wincfg.c:305
+msgid "Ensure window is always on top"
+msgstr "Ã¢ Ç×»ó ¸Ç À§¿¡ (E)"
+
+# settings.c:216 settings.c:451
+msgid "Environment"
+msgstr ""
+
+# config.c:583
+msgid "Environment too big"
+msgstr "È¯°æ º¯¼ö°¡ ³Ê¹« Å®´Ï´Ù"
+
+# config.c:1375
+msgid "Environment variables:"
+msgstr "È¯°æ º¯¼ö:"
+
+# settings.c:316 settings.c:601
+msgid "EraseToScrollback"
+msgstr ""
+
+# config.c:1323
+msgid "Exclude Hosts/IPs"
+msgstr "±ÝÁöµÈ È£½ºÆ®/IP (E)"
+
+# wincfg.c:163
+msgid "Flashing"
+msgstr "±ôºýÀÓ"
+
+# settings.c:281 settings.c:536
+msgid "Font"
+msgstr ""
+
+# wincfg.c:206
+msgid "Font has XWindows encoding"
+msgstr "XÀ©µµ¿ì ÀÎÄÚµù»ç¿ë (X)"
+
+# config.c:1099
+msgid "Font settings"
+msgstr "±Û²Ã ¼³Á¤"
+
+# config.c:1100
+msgid "Font used in the terminal window"
+msgstr "ÅÍ¹Ì³Î Ã¢ ±Û²Ã (N)"
+
+# settings.c:282 settings.c:537
+msgid "FontVTMode"
+msgstr ""
+
+# wincfg.c:288
+msgid "Forbid resizing completely"
+msgstr "ÀüÇô Å©±â Á¶Àý ÇÏÁö ¾ÊÀ½"
+
+# config.c:919 config.c:925
+msgid "Force off"
+msgstr "Ç×»ó ²û"
+
+# config.c:918 config.c:924
+msgid "Force on"
+msgstr "Ç×»ó ÄÔ"
+
+# config.c:1169 wincfg.c:237
+msgid "Formatting of pasted characters"
+msgstr "ºÙ¿©³Ö±â ±ÛÀÚ º¯È¯"
+
+# config.c:1566
+msgid "Forwarded ports:"
+msgstr "Æ÷¿öµå Æ÷Æ®:"
+
+# wincfg.c:308
+msgid "Full screen on Alt-Enter"
+msgstr "Alt-Enter¸¦ ´©¸£¸é ÀüÃ¼ È­¸éÀ¸·Î ÀüÈ¯ (F)"
+
+# settings.c:260 settings.c:514
+msgid "FullScreenOnAltEnter"
+msgstr ""
+
+# config.c:1112
+msgid "Gap between text and window edge:"
+msgstr "º»¹®°ú Ã¢Æ² °£°Ý:"
+
+# config.c:1219 wincfg.c:268
+msgid "General options for colour usage"
+msgstr "»ö±ò°ü·Ã ÀÏ¹Ý ¿É¼Ç"
+
+# config.c:1241
+msgid "Green"
+msgstr "³ì»ö"
+
+# window.c:3718
+msgid "HL.FIG"
+msgstr ""
+
+# winstore.c:450
+msgid "HOMEDRIVE"
+msgstr ""
+
+# winstore.c:453
+msgid "HOMEPATH"
+msgstr ""
+
+# unicode.c:390
+msgid "HP-ROMAN8"
+msgstr ""
+
+# config.c:1306
+msgid "HTTP"
+msgstr ""
+
+# config.c:1410
+msgid "Handling of OLD_ENVIRON ambiguity:"
+msgstr "OLD_ENVIRON ¸ðÈ£¼º ´Ù·ç±â:"
+
+# config.c:1155
+msgid "Handling of line drawing characters:"
+msgstr "¼±±×¸² ¹®ÀÚ ´Ù·ç±â:"
+
+# winstore.c:181 winstore.c:212
+msgid "Height"
+msgstr ""
+
+# wincfg.c:49
+msgid "Help"
+msgstr "µµ¿ò (H)"
+
+# config.c:1106
+msgid "Hide mouse pointer when typing in window"
+msgstr "ÀÔ·Â Áß¿¡´Â ¸¶¿ì½º Ä¿¼­ ¼û±è (P)"
+
+# settings.c:261 settings.c:515
+msgid "HideMousePtr"
+msgstr ""
+
+# config.c:776
+msgid "Host Name (or IP address)"
+msgstr "È£½ºÆ® ÀÌ¸§ (¶Ç´Â IP ÁÖ¼Ò) (N)"
+
+# winnet.c:384
+msgid "Host does not exist"
+msgstr "È£½ºÆ®°¡ Á¸ÀçÇÏÁö ¾ÊÀ½"
+
+# winnet.c:385
+msgid "Host not found"
+msgstr "È£½ºÆ®¸¦ Ã£À» ¼ö ¾øÀ½"
+
+# settings.c:165 settings.c:379
+msgid "HostName"
+msgstr ""
+
+# unicode.c:1027
+msgid "ISO-8859-1"
+msgstr ""
+
+# unicode.c:379
+msgid "ISO-8859-10:1998 (Latin-6, Nordic)"
+msgstr "ISO-8859-10:1998 (¶óÆ¾-6, ½ºÄ­µð³ªºñ¾Æ¾î)"
+
+# unicode.c:380
+msgid "ISO-8859-11:2001 (Latin/Thai)"
+msgstr "ISO-8859-11:2001 (¶óÆ¾/Å¸ÀÌ¾î)"
+
+# unicode.c:1032
+msgid "ISO-8859-13"
+msgstr ""
+
+# unicode.c:381
+msgid "ISO-8859-13:1998 (Latin-7, Baltic)"
+msgstr "ISO-8859-13:1998 (¶óÆ¾-7, ¹ßÆ½¾î)"
+
+# unicode.c:382
+msgid "ISO-8859-14:1998 (Latin-8, Celtic)"
+msgstr "ISO-8859-14:1998 (¶óÆ¾-8, ÄÌÆ®¾î)"
+
+# unicode.c:383
+msgid "ISO-8859-15:1999 (Latin-9, \"euro\")"
+msgstr "ISO-8859-15:1999 (¶óÆ¾-9, \"À¯·Î\")"
+
+# unicode.c:384
+msgid "ISO-8859-16:2001 (Latin-10, Balkan)"
+msgstr "ISO-8859-16:2001 (¶óÆ¾-10, ¹ßÄ­¾î)"
+
+# unicode.c:370
+msgid "ISO-8859-1:1998 (Latin-1, West Europe)"
+msgstr "ISO-8859-1:1998 (¶óÆ¾-1, ¼­À¯·´)"
+
+# unicode.c:1025
+msgid "ISO-8859-2"
+msgstr ""
+
+# unicode.c:371
+msgid "ISO-8859-2:1999 (Latin-2, East Europe)"
+msgstr "ISO-8859-2:1999 (¶óÆ¾-2, µ¿À¯·´)"
+
+# unicode.c:372
+msgid "ISO-8859-3:1999 (Latin-3, South Europe)"
+msgstr "ISO-8859-3:1999 (¶óÆ¾-3, ³²À¯·´)"
+
+# unicode.c:373
+msgid "ISO-8859-4:1998 (Latin-4, North Europe)"
+msgstr "ISO-8859-4:1998 (¶óÆ¾-4, ºÏÀ¯·´)"
+
+# unicode.c:374
+msgid "ISO-8859-5:1999 (Latin/Cyrillic)"
+msgstr "ISO-8859-5:1999 (¶óÆ¾/Å°¸±¾î)"
+
+# unicode.c:1031
+msgid "ISO-8859-6"
+msgstr ""
+
+# unicode.c:375
+msgid "ISO-8859-6:1999 (Latin/Arabic)"
+msgstr "ISO-8859-6:1999 (¶óÆ¾/¾Æ¶ø¾î)"
+
+# unicode.c:1028
+msgid "ISO-8859-7"
+msgstr ""
+
+# unicode.c:376
+msgid "ISO-8859-7:1987 (Latin/Greek)"
+msgstr "ISO-8859-7:1987 (¶óÆ¾/±×¸®½º¾î)"
+
+# unicode.c:1030
+msgid "ISO-8859-8"
+msgstr ""
+
+# unicode.c:377
+msgid "ISO-8859-8:1999 (Latin/Hebrew)"
+msgstr "ISO-8859-8:1999 (¶óÆ¾/È÷ºê¸®¾î)"
+
+# unicode.c:1029
+msgid "ISO-8859-9"
+msgstr ""
+
+# unicode.c:378
+msgid "ISO-8859-9:1999 (Latin-5, Turkish)"
+msgstr "ISO-8859-9:1999 (¶óÆ¾-5, ÅÍÅ°¾î)"
+
+# config.c:899
+msgid "Implicit CR in every LF"
+msgstr "CRÀÌ ¾ø¾îµµ LF°¡ ¹ß°ßµÇ¸é ÁÙ³Ñ±è ÀÎÁ¤"
+
+# config.c:959
+msgid "Initial state of cursor keys:"
+msgstr "Ä¿¼­ Å° ±âº» »óÅÂ (R):"
+
+# config.c:964
+msgid "Initial state of numeric keypad:"
+msgstr "¼ýÀÚ Å°ÆÐµå ±âº» »óÅÂ (N):"
+
+# winnet.c:1183
+msgid "Internal networking trouble"
+msgstr "³×Æ®¿öÅ© ³»ºÎ ¹®Á¦ ¹ß»ý"
+
+# window.c:476
+msgid "Invalid Port Number"
+msgstr "Àß¸øµÈ Æ÷Æ® ¹øÈ£ÀÔ´Ï´Ù"
+
+# winstore.c:173 winstore.c:206
+msgid "IsBold"
+msgstr ""
+
+# unicode.c:389
+msgid "KOI8-R"
+msgstr ""
+
+# unicode.c:388 unicode.c:1026
+msgid "KOI8-U"
+msgstr ""
+
+# window.c:3181
+msgid "K_F%d"
+msgstr ""
+
+# config.c:1423
+msgid "Keyboard sends telnet Backspace and Interrupt"
+msgstr "ÅÚ³Ý½ÄÀÇ ¹é½ºÆäÀÌ½º¿Í ÀÎÅÍ·´Æ®¸¦ º¸³¿ (K)"
+
+# settings.c:276 settings.c:531
+msgid "LFImpliesCR"
+msgstr ""
+
+# unicode.c:487
+msgid "Line cp%d, Font cp%d%s\n"
+msgstr ""
+
+# config.c:913
+msgid "Line discipline options"
+msgstr "Çà ±¸ºÐ ¿É¼Ç"
+
+# settings.c:309 settings.c:593
+msgid "LineCodePage"
+msgstr ""
+
+# config.c:1061
+msgid "Lines of scrollback"
+msgstr "ÀÌÀüÈ­¸é ÀúÀå ÁÙ ¼ö (S)"
+
+# config.c:954
+msgid "Linux"
+msgstr "¸®´ª½º"
+
+# settings.c:236 settings.c:489
+msgid "LinuxFunctionKeys"
+msgstr ""
+
+# config.c:822
+msgid "Load"
+msgstr "ºÒ·¯¿È(L)"
+
+# config.c:806
+msgid "Load, save or delete a stored session"
+msgstr "ÀúÀåµÈ ¼¼¼ÇÀÇ ºÒ·¯¿À±â, ÀúÀå, Áö¿ò"
+
+# config.c:1603
+msgid "Local"
+msgstr "·ÎÄÃ (L)"
+
+# config.c:914
+msgid "Local echo:"
+msgstr "ÀÚ±¹ ¹ÝÇâ (L):"
+
+# config.c:920
+msgid "Local line editing:"
+msgstr "ÀÚÃ¼ ÁÙ ÆíÁý (T):"
+
+# config.c:1556
+msgid "Local ports accept connections from other hosts"
+msgstr "´Ù¸¥ È£½ºÆ®¿¡¼­ ¿ì¸®Ãø Æ÷Æ®·ÎÀÇ Á¢¼Ó (T)"
+
+# config.c:1447
+msgid "Local username:"
+msgstr "»ç¿ëÀÚ ¸í (L):"
+
+# settings.c:256 settings.c:509
+msgid "LocalEcho"
+msgstr ""
+
+# settings.c:257 settings.c:510
+msgid "LocalEdit"
+msgstr ""
+
+# settings.c:323 settings.c:610
+msgid "LocalPortAcceptAll"
+msgstr ""
+
+# settings.c:219 settings.c:470
+msgid "LocalUserName"
+msgstr ""
+
+# settings.c:317 settings.c:602
+msgid "LockSize"
+msgstr ""
+
+# config.c:860
+msgid "Log SSH packet data"
+msgstr "SSH ÆÐÅ¶ µ¥ÀÌÅÍ ±â·Ï"
+
+# config.c:869
+msgid "Log all session output"
+msgstr "¸ðµç ¼¼¼Ç Ãâ·ÂÀ» ±â·Ï (L)"
+
+# config.c:873
+msgid "Log file name:"
+msgstr "·Î±× ÆÄÀÏ ÀÌ¸§ (F):"
+
+# config.c:868
+msgid "Log printable output only"
+msgstr "Ãâ·Â °¡´ÉÇÑ ±ÛÀÚ¸¸ ±â·Ï (P)"
+
+# settings.c:168 settings.c:385
+msgid "LogFileClash"
+msgstr ""
+
+# settings.c:166 settings.c:383
+msgid "LogFileName"
+msgstr ""
+
+# settings.c:167 settings.c:384
+msgid "LogType"
+msgstr ""
+
+# config.c:867
+msgid "Logging turned off completely"
+msgstr "¾Æ¹« °Íµµ ±â·ÏÇÏÁö ¾ÊÀ½ (T)"
+
+# settings.c:353 settings.c:649
+msgid "LoginShell"
+msgstr ""
+
+# config.c:1282
+msgid "Low-level TCP connection options"
+msgstr "Àú¼öÁØ TCP ¾ÐÃà ¿É¼Ç"
+
+# config.c:1551
+msgid "MIT-Magic-Cookie-1"
+msgstr ""
+
+# window.c:3695
+msgid "MNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz@[\\]^_`{"
+msgstr ""
+
+# window.c:216
+msgid "MSWHEEL_ROLLMSG"
+msgstr ""
+
+# config.c:981
+msgid "Make default system alert sound"
+msgstr "±âº» ½Ã½ºÅÛ º§¼Ò¸®"
+
+# config.c:1627
+msgid "Miscomputes SSH2 HMAC keys"
+msgstr "SSH2 HMAC Å°¸¦ Àß¸ø °è»êÇÔ"
+
+# config.c:1630
+msgid "Miscomputes SSH2 encryption keys"
+msgstr "SSH2 ¾ÏÈ£È­ Å°¸¦ Àß¸ø °è»êÇÔ (E)"
+
+# config.c:1639
+msgid "Misuses the session ID in PK auth"
+msgstr "¼¼¼Ç ID¸¦ PK ÀÎÁõ¿¡ ¿À¿ëÇÔ (N)"
+
+# config.c:1247
+msgid "Modify"
+msgstr "º¯°æ (M)"
+
+# settings.c:295 settings.c:561
+msgid "MouseIsXterm"
+msgstr ""
+
+# settings.c:297 settings.c:563
+msgid "MouseOverride"
+msgstr ""
+
+# window.c:665
+msgid "Ne&w Session..."
+msgstr "»õ Á¢¼Ó (&W)"
+
+# config.c:967
+msgid "NetHack"
+msgstr "³ÝÇÙ"
+
+# settings.c:248 settings.c:501
+msgid "NetHackKeypad"
+msgstr ""
+
+# winnet.c:253
+msgid "Network error: Address already in use"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ÁÖ¼Ò°¡ ÀÌ¹Ì »ç¿ë ÁßÀÔ´Ï´Ù"
+
+# winnet.c:258
+msgid "Network error: Address family not supported by protocol family"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ÇÁ·ÎÅäÄÝ ÇüÅÂ¿¡¼­ Áö¿øµÇÁö ¾Ê´Â ÁÖ¼Ò ±×·ìÀÔ´Ï´Ù"
+
+# winnet.c:270
+msgid "Network error: Bad address"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: Àß¸øµÈ ÁÖ¼Ò"
+
+# winnet.c:296
+msgid "Network error: Bad protocol option"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: Àß¸øµÈ ÇÁ·ÎÅäÄÝ ¿É¼Ç"
+
+# winnet.c:255
+msgid "Network error: Cannot assign requested address"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ¿äÃ»µÈ ÁÖ¼Ò¸¦ ÇÒ´çÇÒ ¼ö ¾ø½À´Ï´Ù"
+
+# winnet.c:312
+msgid "Network error: Cannot send after socket shutdown"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ´ÝÈù ¼ÒÄÏ¿¡´Â º¸³¾ ¼ö ¾ø½À´Ï´Ù"
+
+# winnet.c:264
+msgid "Network error: Connection refused"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: Á¢¼ÓÀÌ °ÅºÎµÇ¾ú½À´Ï´Ù"
+
+# winnet.c:266
+msgid "Network error: Connection reset by peer"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: Á¢¼ÓÀÌ ²÷°å½À´Ï´Ù"
+
+# winnet.c:316
+msgid "Network error: Connection timed out"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: Á¢¼ÓÀÌ Å¸ÀÓ¾Æ¿ô µÇ¾ú½À´Ï´Ù"
+
+# winnet.c:268
+msgid "Network error: Destination address required"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ´ë»ó ÁÖ¼Ò°¡ ÇÊ¿äÇÕ´Ï´Ù"
+
+# winnet.c:320
+msgid "Network error: Graceful shutdown in progress"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: Á¤»ó Áß´ÜÀÌ ÁøÇà ÁßÀÔ´Ï´Ù"
+
+# winnet.c:272
+msgid "Network error: Host is down"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: »ó´ë È£½ºÆ®°¡ Á×¾î ÀÖ½À´Ï´Ù"
+
+# winnet.c:278
+msgid "Network error: Interrupted function call"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ÇÔ¼ö È£ÃâÀÌ Áß´ÜµÇ¾ú½À´Ï´Ù"
+
+# winnet.c:280
+msgid "Network error: Invalid argument"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: Àß¸øµÈ ÀÎÀÚ°¡ Àü´ÞµÇ¾ú½À´Ï´Ù"
+
+# winnet.c:286
+msgid "Network error: Message too long"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ¸Þ½ÃÁö°¡ ³Ê¹« ±é´Ï´Ù"
+
+# winnet.c:290
+msgid "Network error: Network dropped connection on reset"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ¸®¼ÂµÇ¾î ³×Æ®¿öÅ© Á¢¼ÓÀÌ ¶³¾îÁ³½À´Ï´Ù"
+
+# winnet.c:288
+msgid "Network error: Network is down"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ³×Æ®¿öÅ©°¡ Á×¾ú½À´Ï´Ù"
+
+# winnet.c:292
+msgid "Network error: Network is unreachable"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: µµ´ÞÇÒ ¼ö ¾ø´Â ³×Æ®¿öÅ©ÀÔ´Ï´Ù"
+
+# winnet.c:294
+msgid "Network error: No buffer space available"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ¹öÆÛ °ø°£ÀÌ ºÎÁ·ÇÕ´Ï´Ù"
+
+# winnet.c:274
+msgid "Network error: No route to host"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: È£½ºÆ®¿¡ÀÇ °æ·Î¸¦ Ã£À» ¼ö ¾ø½À´Ï´Ù"
+
+# winnet.c:260
+msgid "Network error: Operation already in progress"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ÀÌ¹Ì ÀÛ¾÷ÀÌ ÁøÇà ÁßÀÔ´Ï´Ù"
+
+# winnet.c:302
+msgid "Network error: Operation not supported"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: Áö¿øµÇÁö ¾Ê´Â ÀÛ¾÷ÀÔ´Ï´Ù"
+
+# winnet.c:276
+msgid "Network error: Operation now in progress"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ÀÛ¾÷ÀÌ ÀÌÁ¦ ÁøÇà ÁßÀÔ´Ï´Ù"
+
+# winnet.c:251
+msgid "Network error: Permission denied"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ±ÇÇÑÀÌ ¾ø½À´Ï´Ù"
+
+# winnet.c:304
+msgid "Network error: Protocol family not supported"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: Áö¿øµÇÁö ¾Ê´Â ÇÁ·ÎÅäÄÝ À¯ÇüÀÔ´Ï´Ù"
+
+# winnet.c:308
+msgid "Network error: Protocol not supported"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: Áö¿øµÇÁö ¾Ê´Â ÇÁ·ÎÅäÄÝÀÔ´Ï´Ù"
+
+# winnet.c:310
+msgid "Network error: Protocol wrong type for socket"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ÇØ´ç ¼ÒÄÏ¿¡ Àß¸øµÈ ÇÁ·ÎÅäÄÝ Å¸ÀÔÀÔ´Ï´Ù"
+
+# winnet.c:318
+msgid "Network error: Resource temporarily unavailable"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ½Ã½ºÅÛ ÀÚ¿øÀÌ ÀÓ½Ã·Î ºÎÁ·ÇÕ´Ï´Ù"
+
+# winnet.c:282
+msgid "Network error: Socket is already connected"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ¼ÒÄÏÀÌ ÀÌ¹Ì Á¢¼ÓµÇ¾îÀÖ½À´Ï´Ù"
+
+# winnet.c:298
+msgid "Network error: Socket is not connected"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ¼ÒÄÏÀÌ Á¢¼ÓµÇÁö ¾Ê¾Ò½À´Ï´Ù"
+
+# winnet.c:300
+msgid "Network error: Socket operation on non-socket"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ¼ÒÄÏÀÌ ¾Æ´Ñ ÆÄÀÏ¿¡ ´ëÇÑ ¼ÒÄÏ ÀÛ¾÷ÀÔ´Ï´Ù"
+
+# winnet.c:314
+msgid "Network error: Socket type not supported"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: Áö¿øµÇÁö ¾Ê´Â ¼ÒÄÏ Å¸ÀÔÀÔ´Ï´Ù"
+
+# winnet.c:262
+msgid "Network error: Software caused connection abort"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ¼ÒÇÁÆ®¿þ¾îÀûÀÎ Á¢¼Ó Áß´ÜÀÔ´Ï´Ù"
+
+# winnet.c:284
+msgid "Network error: Too many open files"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ¿­¸° ÆÄÀÏÀÌ ³Ê¹« ¸¹½À´Ï´Ù"
+
+# winnet.c:306
+msgid "Network error: Too many processes"
+msgstr "³×Æ®¿öÅ© ¿¡·¯: ÇÁ·Î¼¼½º°¡ ³Ê¹« ¸¹½À´Ï´Ù"
+
+# window.c:843 winnet.c:382
+msgid "Network is down"
+msgstr "³×Æ®¿öÅ©°¡ ²÷°å½À´Ï´Ù"
+
+# config.c:843
+msgid "Never"
+msgstr "¾È ´ÝÀ½"
+
+# config.c:1336
+msgid "No"
+msgstr "¾Æ´Ï¿ä"
+
+# settings.c:241 settings.c:494
+msgid "NoAltScreen"
+msgstr ""
+
+# settings.c:238 settings.c:491
+msgid "NoApplicationCursors"
+msgstr ""
+
+# settings.c:237 settings.c:490
+msgid "NoApplicationKeys"
+msgstr ""
+
+# settings.c:244 settings.c:497
+msgid "NoDBackspace"
+msgstr ""
+
+# settings.c:239 settings.c:492
+msgid "NoMouseReporting"
+msgstr ""
+
+# settings.c:220 settings.c:472
+msgid "NoPTY"
+msgstr ""
+
+# settings.c:245 settings.c:498
+msgid "NoRemoteCharset"
+msgstr ""
+
+# settings.c:243 settings.c:496
+msgid "NoRemoteQTitle"
+msgstr ""
+
+# settings.c:240 settings.c:493
+msgid "NoRemoteResize"
+msgstr ""
+
+# settings.c:242 settings.c:495
+msgid "NoRemoteWinTitle"
+msgstr ""
+
+# config.c:1303
+msgid "None"
+msgstr "¾øÀ½"
+
+# config.c:980
+msgid "None (bell disabled)"
+msgstr "¾øÀ½ (º§ »ç¿ë ¾È ÇÔ) "
+
+# config.c:13 windlg.c:48
+msgid "None (printing disabled)"
+msgstr "¾øÀ½ (ÇÁ¸°Æ® »ç¿ë ¾È ÇÔ)"
+
+# config.c:963 config.c:967 config.c:1185
+msgid "Normal"
+msgstr "ÀÏ¹Ý"
+
+# config.c:189
+msgid "Off"
+msgstr "²û"
+
+# config.c:190
+msgid "On"
+msgstr "ÄÔ"
+
+# config.c:844
+msgid "Only on clean exit"
+msgstr "Á¢¼ÓÀÌ ²÷°åÀ» ¶§¸¸"
+
+# config.c:752
+msgid "Open"
+msgstr "¿­±â (O)"
+
+# config.c:1043
+msgid "Options controlling %s's window"
+msgstr "%sÀÇ Ã¢ Á¦¾î ¿É¼ÇÀ» Á¶Á¤ÇÕ´Ï´Ù"
+
+# config.c:1439
+msgid "Options controlling Rlogin connections"
+msgstr "Rlogin Á¢¼Ó Á¦¾î ¿É¼ÇÀ» Á¶Á¤ÇÕ´Ï´Ù"
+
+# config.c:1506
+msgid "Options controlling SSH authentication"
+msgstr "SSH ÀÎÁõ Á¦¾î ¿É¼ÇÀ» Á¶Á¤ÇÕ´Ï´Ù"
+
+# config.c:1464
+msgid "Options controlling SSH connections"
+msgstr "SSH Á¢¼Ó ¿É¼ÇÀ» Á¶Á¤ÇÕ´Ï´Ù"
+
+# config.c:1537
+msgid "Options controlling SSH tunnelling"
+msgstr "SSH ÅÍ³Î¸µ Á¦¾î ¿É¼ÇÀ» Á¶Á¤ÇÕ´Ï´Ù"
+
+# config.c:1366
+msgid "Options controlling Telnet connections"
+msgstr "ÅÚ³Ý Á¢¼Ó Á¦¾î ¿É¼ÇÀ» Á¶Á¤ÇÕ´Ï´Ù"
+
+# config.c:1144
+msgid "Options controlling character set translation"
+msgstr "¹®ÀÚ ¼Â º¯È¯ Á¦¾î ¿É¼ÇÀ» Á¶Á¤ÇÕ´Ï´Ù"
+
+# config.c:1166
+msgid "Options controlling copy and paste"
+msgstr "º¹»ç, ºÙ¿©³Ö±â Á¦¾î ¿É¼ÇÀ» Á¶Á¤ÇÕ´Ï´Ù"
+
+# config.c:1296
+msgid "Options controlling proxy usage"
+msgstr "ÇÁ¶ô½Ã »ç¿ë Á¦¾î ¿É¼ÇÀ» Á¶Á¤ÇÕ´Ï´Ù"
+
+# config.c:849
+msgid "Options controlling session logging"
+msgstr "¼¼¼Ç ·Î±× Á¦¾î ¿É¼ÇÀ» Á¶Á¤ÇÕ´Ï´Ù"
+
+# config.c:1258
+msgid "Options controlling the connection"
+msgstr "Á¢¼Ó Á¦¾î ¿É¼ÇÀ» Á¶Á¤ÇÕ´Ï´Ù"
+
+# config.c:936
+msgid "Options controlling the effects of keys"
+msgstr "Å° È¿°ú Á¦¾î ¿É¼ÇÀ» Á¶Á¤ÇÕ´Ï´Ù"
+
+# config.c:974
+msgid "Options controlling the terminal bell"
+msgstr "ÅÍ¹Ì³Î º§ Á¦¾î ¿É¼ÇÀ» Á¶Á¤ÇÕ´Ï´Ù"
+
+# config.c:890
+msgid "Options controlling the terminal emulation"
+msgstr "ÅÍ¹Ì³Î ¿¡¹Ä·¹ÀÌ¼Ç Á¦¾î ¿É¼ÇÀ» Á¶Á¤ÇÕ´Ï´Ù"
+
+# config.c:1216
+msgid "Options controlling use of colours"
+msgstr "»ö»ó »ç¿ë ¿É¼ÇÀ» Á¶Á¤ÇÕ´Ï´Ù"
+
+# config.c:989
+msgid "Over-use means this many bells..."
+msgstr "ÃÖ¼Ò º§ °úºÎÇÏ °áÁ¤ ±âÁØ"
+
+# config.c:1421
+msgid "Passive"
+msgstr "¼öµ¿"
+
+# settings.c:233 settings.c:486
+msgid "PassiveTelnet"
+msgstr ""
+
+# config.c:1344
+msgid "Password"
+msgstr "¾ÏÈ£ (W)"
+
+# wincfg.c:238
+msgid "Paste to clipboard in RTF as well as plain text"
+msgstr "Å¬¸³º¸µå·Î ÅØ½ºÆ®¿Í RTF¸¦ µ¿½Ã¿¡ º¹»ç"
+
+# settings.c:294 settings.c:560
+msgid "PasteRTF"
+msgstr ""
+
+# settings.c:182 settings.c:404
+msgid "PingInterval"
+msgstr ""
+
+# settings.c:183 settings.c:405
+msgid "PingIntervalSecs"
+msgstr ""
+
+# wincfg.c:132
+msgid "Play a custom sound file"
+msgstr "´Ù¸¥ »ç¿îµå ÆÄÀÏ »ç¿ë"
+
+# config.c:1160
+msgid "Poor man's line drawing (+, - and |)"
+msgstr "°¡³­ÇÑ ÀÚÀÇ ¼±±×¸² ¹®ÀÚ (+, - ¿Í |) (P)"
+
+# config.c:781 config.c:1316
+msgid "Port"
+msgstr "Æ÷Æ® (P)"
+
+# config.c:1555
+msgid "Port forwarding"
+msgstr "Æ÷Æ® Æ÷¿öµù"
+
+# settings.c:342 settings.c:614
+msgid "PortForwardings"
+msgstr ""
+
+# settings.c:177 settings.c:393
+msgid "PortNumber"
+msgstr ""
+
+# config.c:1482
+msgid "Preferred SSH protocol version:"
+msgstr "¸ÕÀú ½ÃµµÇÒ SSH ÇÁ·ÎÅäÄÝ ¹öÀü:"
+
+# settings.c:163
+msgid "Present"
+msgstr ""
+
+# window.c:1152
+msgid "Primary font H=%d, AW=%d, MW=%d"
+msgstr ""
+
+# settings.c:310 settings.c:595
+msgid "Printer"
+msgstr ""
+
+# config.c:928
+msgid "Printer to send ANSI printer output to:"
+msgstr "ANSI ÇÁ¸°ÅÍ Ãâ·ÂÀ» º¸³¾ ÇÁ¸°ÅÍ (P):"
+
+# config.c:1528
+msgid "Private key file for authentication:"
+msgstr "ÀÎÁõ °³ÀÎÅ° ÆÄÀÏ (K):"
+
+# settings.c:176 settings.c:387
+msgid "Protocol"
+msgstr ""
+
+# config.c:1473
+msgid "Protocol options"
+msgstr "ÇÁ·ÎÅäÄÝ ¿É¼Ç"
+
+# config.c:787 config.c:795
+msgid "Protocol:"
+msgstr "ÇÁ·ÎÅäÄÝ:"
+
+# config.c:1310
+msgid "Proxy hostname"
+msgstr "ÇÁ¶ô½Ã È£½ºÆ® (Y)"
+
+# config.c:1299
+msgid "Proxy type:"
+msgstr "ÇÁ¶ôÆ¼ À¯Çü (T):"
+
+# settings.c:190 settings.c:417
+msgid "ProxyDNS"
+msgstr ""
+
+# settings.c:189 settings.c:415
+msgid "ProxyExcludeList"
+msgstr ""
+
+# settings.c:193 settings.c:439
+msgid "ProxyHost"
+msgstr ""
+
+# settings.c:191 settings.c:418
+msgid "ProxyLocalhost"
+msgstr ""
+
+# settings.c:192 settings.c:419
+msgid "ProxyMethod"
+msgstr ""
+
+# settings.c:196 settings.c:444
+msgid "ProxyPassword"
+msgstr ""
+
+# settings.c:194 settings.c:441
+msgid "ProxyPort"
+msgstr ""
+
+# settings.c:432
+msgid "ProxySOCKSVersion"
+msgstr ""
+
+# settings.c:197 settings.c:446
+msgid "ProxyTelnetCommand"
+msgstr ""
+
+# settings.c:422
+msgid "ProxyType"
+msgstr ""
+
+# settings.c:195 settings.c:442
+msgid "ProxyUsername"
+msgstr ""
+
+# settings.c:511
+msgid "PuTTY"
+msgstr ""
+
+# version.c:21
+msgid "PuTTY-Local: "
+msgstr ""
+
+# version.c:16
+msgid "PuTTY-Release-"
+msgstr "ÇªÆ¼-ÇÑ±ÛÆÇ-"
+
+# version.c:11
+msgid "PuTTY-Snapshot-"
+msgstr ""
+
+# settings.c:230 settings.c:482
+msgid "PublicKeyFile"
+msgstr ""
+
+# config.c:1073
+msgid "Push erased text into scrollback"
+msgstr "Áö¿öÁø ±ÛÀ» ÀÌÀüÈ­¸éÀ¸·Î ¹Ð¾î³¿ (E)"
+
+# config.c:1416
+msgid "RFC 1408 (unusual)"
+msgstr "RFC 1408 (¾È ¾²ÀÓ)"
+
+# settings.c:232 settings.c:485
+msgid "RFCEnviron"
+msgstr ""
+
+# config.c:1236
+msgid "RGB value:"
+msgstr "RGB °ª:"
+
+# settings.c:235 settings.c:488
+msgid "RXVTHomeEnd"
+msgstr ""
+
+# winstore.c:438
+msgid "RandSeedFile"
+msgstr ""
+
+# config.c:790 config.c:798
+msgid "Raw"
+msgstr "»ýÂ¥ (R)"
+
+# settings.c:293 settings.c:559
+msgid "RawCNP"
+msgstr ""
+
+# config.c:1148
+msgid "Received data assumed to be in which character set:"
+msgstr "¼ö½ÅÇÑ µ¥ÀÌÅÍ¸¦ ÀÌ ¹®ÀÚ¼ÂÀ¸·Î °¡Á¤ (R):"
+
+# settings.c:296 settings.c:562
+msgid "RectSelect"
+msgstr ""
+
+# config.c:1186
+msgid "Rectangular block"
+msgstr "»ç°¢ ºí·° (R)"
+
+# config.c:1238
+msgid "Red"
+msgstr "»¡°­"
+
+# config.c:1621
+msgid "Refuses all SSH1 password camouflage"
+msgstr "SSH1 ÆÐ½º¿öµå À§ÀåÀ» °ÅºÎÇÔ"
+
+# version.c:15
+msgid "Release "
+msgstr ""
+
+# config.c:1604
+msgid "Remote"
+msgstr "¿ø°Ý (M)"
+
+# config.c:1547
+msgid "Remote X11 authentication protocol"
+msgstr "¿ø°Ý X11 ÀÎÁõ ÇÁ·ÎÅäÄÝ (U)"
+
+# config.c:1468
+msgid "Remote command:"
+msgstr "¿ø°Ý ¸í·É (R):"
+
+# config.c:1560
+msgid "Remote ports do the same (SSH v2 only)"
+msgstr "¿ø°Ý Æ÷Æ®µµ °°Àº ¹æ¹ýÀ¸·Î (SSH2¸¸) (P)"
+
+# config.c:927
+msgid "Remote-controlled printing"
+msgstr "¿ø°Ý Á¦¾î ÇÁ¸°Æ®"
+
+# settings.c:231 settings.c:483
+msgid "RemoteCommand"
+msgstr ""
+
+# settings.c:324 settings.c:611
+msgid "RemotePortAcceptAll"
+msgstr ""
+
+# config.c:1391 config.c:1571
+msgid "Remove"
+msgstr "Áö¿ò (R)"
+
+# config.c:1633
+msgid "Requires padding on SSH2 RSA signatures"
+msgstr "SSH2 RSA ½Ã±×³ÊÃç¿¡ ÆÐµù ¿ä±¸ (P)"
+
+# window.c:679
+msgid "Rese&t Terminal"
+msgstr "ÅÍ¹Ì³Î ÃÊ±âÈ­ (&T)"
+
+# config.c:1070
+msgid "Reset scrollback on display activity"
+msgstr "Ãâ·ÂÀÌ ÀÖÀ¸¸é ÀÌÀüÈ­¸é º¸±â¸¦ ÃÊ±âÈ­ (P)"
+
+# config.c:1067
+msgid "Reset scrollback on keypress"
+msgstr "Å° ÀÔ·ÂÀÌ ÀÖÀ¸¸é ÀÌÀüÈ­¸é º¸±â¸¦ ÃÊ±âÈ­ (K)"
+
+# config.c:1427
+msgid "Return key sends telnet New Line instead of ^M"
+msgstr "CR´ë½Å ÅÚ³Ý New Line ¹®ÀÚ¸¦ º¸³¿"
+
+# config.c:792 config.c:800
+msgid "Rlogin"
+msgstr ""
+
+# config.c:1049
+msgid "Rows"
+msgstr "ÁÙ (R)"
+
+# config.c:955
+msgid "SCO"
+msgstr ""
+
+# window.c:3185
+msgid "SHIFT"
+msgstr ""
+
+# window.c:2318
+msgid "SIZE_MAXIMIZED"
+msgstr ""
+
+# window.c:2317
+msgid "SIZE_MINIMIZED"
+msgstr ""
+
+# window.c:2320
+msgid "SIZE_RESTORED"
+msgstr ""
+
+# config.c:1304
+msgid "SOCKS 4"
+msgstr ""
+
+# config.c:1305
+msgid "SOCKS 5"
+msgstr ""
+
+# config.c:801
+msgid "SSH"
+msgstr ""
+
+# settings.c:229 settings.c:479
+msgid "SSH2DES"
+msgstr ""
+
+# windlg.c:366
+msgid "STATIC"
+msgstr ""
+
+# window.c:674
+msgid "Sa&ved Sessions"
+msgstr "ÀúÀåµÈ ¼¼¼Ç (&V)"
+
+# config.c:826
+msgid "Save"
+msgstr "ÀúÀå(V)"
+
+# config.c:809
+msgid "Saved Sessions"
+msgstr "ÀúÀåµÈ ¼¼¼Ç (E)"
+
+# settings.c:312 settings.c:597
+msgid "ScrollBar"
+msgstr ""
+
+# settings.c:313 settings.c:598
+msgid "ScrollBarFullScreen"
+msgstr ""
+
+# settings.c:315 settings.c:600
+msgid "ScrollOnDisp"
+msgstr ""
+
+# settings.c:314 settings.c:599
+msgid "ScrollOnKey"
+msgstr ""
+
+# settings.c:273 settings.c:528
+msgid "ScrollbackLines"
+msgstr ""
+
+# settings.c:354 settings.c:650
+msgid "ScrollbarOnLeft"
+msgstr ""
+
+# config.c:1275
+msgid "Seconds between keepalives (0 to turn off)"
+msgstr "Á¢¼Ó À¯Áö °£°Ý (ÃÊ´ÜÀ§, 0Àº ²û)"
+
+# config.c:998
+msgid "Seconds of silence required"
+msgstr "ÇØÁ¦ ½Ã°£ (S)"
+
+# config.c:1227
+msgid ""
+"Select a colour from the list, and then click the Modify button to change "
+"its appearance."
+msgstr "¸ñ·Ï¿¡¼­ »ö±òÀ» °í¸£°í º¯°æ ¹öÆ°À» ´­·¯ Ç¥Çö»öÀ» ¹Ù²Ù¼¼¿ä."
+
+# config.c:1232
+msgid "Select a colour to adjust:"
+msgstr "Á¶Á¤ÇÒ »ö±ò ¼±ÅÃ (U):"
+
+# wincfg.c:150
+msgid "Select bell sound file"
+msgstr "º§ ¼Ò¸® ÆÄÀÏ ¼±ÅÃ"
+
+# config.c:1529
+msgid "Select private key file"
+msgstr "ºñ¹ÐÅ° ÆÄÀÏ ¼±ÅÃ"
+
+# config.c:874
+msgid "Select session log file name"
+msgstr "¼¼¼Ç ·Î±× ÆÄÀÏ ÀÌ¸§ ¼±ÅÃ"
+
+# config.c:1274
+msgid "Sending of null packets to keep session active"
+msgstr "¼¼¼Ç À¯Áö¸¦ À§ÇÑ ºóÆÐÅ¶ º¸³»±â"
+
+# config.c:1130
+msgid "Separate window and icon titles"
+msgstr "Ã¢°ú ¾ÆÀÌÄÜ Á¦¸ñÀ» ºÐ¸® (I)"
+
+# config.c:769 config.c:773 config.c:805 config.c:837
+msgid "Session"
+msgstr "¼¼¼Ç"
+
+# config.c:863
+msgid "Session logging:"
+msgstr "¼¼¼Ç ·Î±×:"
+
+# config.c:849 config.c:851
+msgid "Session/Logging"
+msgstr "¼¼¼Ç/·Î±ë"
+
+# config.c:1207
+msgid "Set"
+msgstr "¹Ù²Þ (S)"
+
+# config.c:1047 wincfg.c:280
+msgid "Set the size of the window"
+msgstr "Ã¢ Å©±â Á¶Àý"
+
+# config.c:976 wincfg.c:120
+msgid "Set the style of bell"
+msgstr "º§ ½ºÅ¸ÀÏ"
+
+# config.c:1203
+msgid "Set to class"
+msgstr "Å¬·¡½º (T)"
+
+# config.c:892
+msgid "Set various terminal options"
+msgstr "´Ù¾çÇÑ ÅÍ¹Ì³Î ¿É¼Ç"
+
+# settings.c:356 settings.c:651
+msgid "ShadowBold"
+msgstr ""
+
+# settings.c:357 settings.c:655
+msgid "ShadowBoldOffset"
+msgstr ""
+
+# config.c:1176
+msgid "Shift overrides application's use of mouse"
+msgstr "½¬ÇÁÆ®·Î ¾ÖÇÃ¸®ÄÉÀÌ¼Ç ¸¶¿ì½º»ç¿ëÀ» ¾þÀ½ (P)"
+
+# config.c:1593
+msgid "Source port"
+msgstr "¿ø Æ÷Æ® (S)"
+
+# window.c:878
+msgid "Special Command"
+msgstr "Æ¯º° ¸í·É"
+
+# config.c:774
+msgid "Specify your connection by host name or IP address"
+msgstr "±âº» Á¢¼Ó Á¤º¸"
+
+# settings.c:228 settings.c:478
+msgid "SshProt"
+msgstr ""
+
+# settings.c:352 settings.c:648
+msgid "StampUtmp"
+msgstr ""
+
+# config.c:949
+msgid "Standard"
+msgstr "Ç¥ÁØ"
+
+# wincfg.c:164
+msgid "Steady"
+msgstr "°è¼Ó"
+
+# wincfg.c:171
+msgid "Sunken-edge border (slightly thicker)"
+msgstr "Æ¢¾î³ª¿Â Ã¢Æ² (Á» ´õ µÎÅÍ¿ò) (S)"
+
+# settings.c:262 settings.c:516
+msgid "SunkenEdge"
+msgstr ""
+
+# wincfg.c:302
+msgid "System menu appears on ALT alone"
+msgstr "ALT¸¸ ´©¸£¸é ½Ã½ºÅÛ ¸Þ´º ³ª¿È (L)"
+
+# wincfg.c:299
+msgid "System menu appears on ALT-Space"
+msgstr "ALT-½ºÆäÀÌ½º¸¦ ´©¸£¸é ½Ã½ºÅÛ ¸Þ´º ³ª¿È (Y)"
+
+# settings.c:185 settings.c:415
+msgid "TCPKeepalives"
+msgstr ""
+
+# settings.c:184 settings.c:408
+msgid "TCPNoDelay"
+msgstr ""
+
+# wincfg.c:158
+msgid "Taskbar/caption indication on bell:"
+msgstr "º§ÀÌ ¿ï¸®¸é ÀÛ¾÷Ç¥½ÃÁÙ¿¡ Ç¥½Ã (I):"
+
+# config.c:791 config.c:799 config.c:1307
+msgid "Telnet"
+msgstr ""
+
+# config.c:1350
+msgid "Telnet command"
+msgstr "ÅÚ³Ý ¸í·É (M)"
+
+# config.c:1417
+msgid "Telnet negotiation mode:"
+msgstr "ÅÚ³Ý Çù»ó ¸ðµå (T):"
+
+# config.c:1407
+msgid "Telnet protocol adjustments"
+msgstr "ÅÚ³Ý ÇÁ·ÎÅäÄÝ Á¶Á¤"
+
+# settings.c:254 settings.c:507
+msgid "TelnetKey"
+msgstr ""
+
+# settings.c:255 settings.c:508
+msgid "TelnetRet"
+msgstr ""
+
+# settings.c:280 settings.c:535
+msgid "TermHeight"
+msgstr ""
+
+# settings.c:279 settings.c:534
+msgid "TermWidth"
+msgstr ""
+
+# config.c:890 config.c:892 config.c:913 config.c:927
+msgid "Terminal"
+msgstr "ÅÍ¹Ì³Î"
+
+# config.c:1371 config.c:1443
+msgid "Terminal speeds"
+msgstr "ÅÍ¹Ì³Î ¼Óµµ (S)"
+
+# config.c:1263
+msgid "Terminal-type string"
+msgstr "ÅÍ¹Ì³Î Å¸ÀÔ ¹®ÀÚ¿­ (T)"
+
+# config.c:973 config.c:976 config.c:984 wincfg.c:120
+msgid "Terminal/Bell"
+msgstr "ÅÍ¹Ì³Î/º§"
+
+# config.c:1006 config.c:1009
+msgid "Terminal/Features"
+msgstr "ÅÍ¹Ì³Î/±â´É"
+
+# config.c:935 config.c:938 config.c:957 wincfg.c:94
+msgid "Terminal/Keyboard"
+msgstr "ÅÍ¹Ì³Î/Å°º¸µå"
+
+# settings.c:186 settings.c:411
+msgid "TerminalSpeed"
+msgstr ""
+
+# settings.c:185 settings.c:409
+msgid "TerminalType"
+msgstr ""
+
+# config.c:940
+msgid "The Backspace key"
+msgstr "¹é½ºÆäÀÌ½º Å° (B)"
+
+# config.c:950
+msgid "The Function keys and keypad"
+msgstr "Æã¼ÇÅ°¿Í Å°ÆÐµå (F)"
+
+# config.c:945
+msgid "The Home and End keys"
+msgstr "Home°ú EndÅ°"
+
+# config.c:996
+msgid "The bell is re-enabled after a few seconds of silence."
+msgstr "ÀÏÁ¤ ½Ã°£ Á¶¿ëÇÏ¸é º§¼Ò¸® ´Ù½Ã º¹±¸"
+
+# windlg.c:787
+msgid ""
+"The first %.35scipher supported by the server\n"
+"is %.64s, which is below the configured\n"
+"warning threshold.\n"
+"Do you want to continue with this connection?\n"
+msgstr ""
+"¼­¹ö°¡ Áö¿øÇÏ´Â %.35s »çÀÌÆÛ Áß Ã¹¹øÂ°·Î\n"
+"ºÎÇÕµÇ´Â %.64s´Â º¸¾È¼º ¾ÈÀü ¼öÁØ ÀÌÇÏ\n"
+"ÀÔ´Ï´Ù.\n"
+"ÀÌ Á¢¼ÓÀ» À¯ÁöÇÏ½Ã°Ú½À´Ï±î?\n"
+
+# windlg.c:710
+msgid ""
+"The server's host key is not cached in the registry. You\n"
+"have no guarantee that the server is the computer you\n"
+"think it is.\n"
+"The server's %s key fingerprint is:\n"
+"%s\n"
+"If you trust this host, hit Yes to add the key to\n"
+"%s's cache and carry on connecting.\n"
+"If you want to carry on connecting just once, without\n"
+"adding the key to the cache, hit No.\n"
+"If you do not trust this host, hit Cancel to abandon the\n"
+"connection.\n"
+msgstr ""
+"¼­¹öÀÇ È£½ºÆ® Å°°¡ ·¹Áö½ºÆ®¸®¿¡ ÀúÀåµÇ¾îÀÖÁö ¾Ê½À´Ï´Ù.\n"
+"Áö±Ý Á¢¼ÓÇÑ ¼­¹ö°¡ ¿ø·¡ Á¢¼ÓÇÏ·Á´ø ÄÄÇ»ÅÍ°¡ ¸Â´Â Áö È®\n"
+"½ÅÇÒ ¼ö ¾ø½À´Ï´Ù.\n"
+"¼­¹öÀÇ %s °ø°³Å° Áö¹®Àº:\n"
+"%s\n"
+"ÀÌ È£½ºÆ®¸¦ ½Å·ÚÇÑ´Ù¸é, ¿¹¸¦ ´­·¯¼­ %sÀÇ Ä³½¬\n"
+"¿¡ ÀÌ Å°¸¦ µî·ÏÇÏ°í, Á¢¼ÓÀ» °è¼ÓÇÏ¼¼¿ä.\n"
+"ÀÌ È£½ºÆ®¸¦ Ä³½¬¿¡ µî·ÏÇÏ±â ¾Ê°í ±×³É ÀÌ¹ø Á¢¼Ó¸¸ Çã¿ë\n"
+"ÇÏ·Á¸é ¾Æ´Ï¿À¸¦ ´©¸£¼¼¿ä.\n"
+"ÀÌ È£½ºÆ®¸¦ ½Å·ÚÇÏÁö ¾ÊÀ¸¸é, Ãë¼Ò¸¦ ´©¸£¸é Á¢¼ÓÀ» Áß´Ü\n"
+"ÇÒ ¼ö ÀÖ½À´Ï´Ù.\n"
+
+# windlg.c:815
+msgid ""
+"The session log file \"%.*s\" already exists.\n"
+"You can overwrite it with a new session log,\n"
+"append your session log to the end of it,\n"
+"or disable session logging for this session.\n"
+"Hit Yes to wipe the file, No to append to it,\n"
+"or Cancel to disable logging."
+msgstr ""
+"¼¼¼Ç ·Î±×ÆÄÀÏ \"%.*s\"°¡ ÀÌ¹Ì Á¸ÀçÇÕ´Ï´Ù.\n"
+"»õ ¼¼¼Ç ·Î±×ÆÄÀÏ·Î µ¤¾î¾²°Å³ª, ±âÁ¸ ¼¼¼Ç ·Î±×\n"
+"ÀÇ ³¡¿¡ µ¡ºÙ¿©¾²°Å³ª, ÀÌ¹ø Á¢¼Ó¿¡¼­ ¼¼¼Ç ·Î±ë\n"
+"À» ¾È ÇÒ ¼öµµ ÀÖ½À´Ï´Ù.\n"
+"±âÁ¸ ·Î±× ÆÄÀÏÀ» Áö¿ì·Á¸é ¿¹¸¦ ´©¸£°í, µ¡ºÙÀÌ\n"
+"·Á¸é ¾Æ´Ï¿À, ·Î±ëÇÏÁö ¾ÊÀ¸·Á¸é Ãë¼Ò¸¦ ´©¸£¼¼¿ä\n"
+
+# window.c:333
+msgid ""
+"This procedure will remove ALL Registry\n"
+"entries associated with %s, and will\n"
+"also remove the random seed file.\n"
+"\n"
+"THIS PROCESS WILL DESTROY YOUR SAVED\n"
+"SESSIONS. Are you really sure you want\n"
+"to continue?"
+msgstr ""
+"ÀÌÁ¦ %s¿Í °ü·ÃµÈ ¸ðµç ·¹Áö½ºÆ®¸®¸¦ Áö¿ì°í\n"
+"·£´ý ½Ãµå ÆÄÀÏµµ Áö¿ì°Ô µÉ °ÍÀÔ´Ï´Ù.\n"
+"\n"
+"!ÁÖÀÇ! °á°úÀûÀ¸·Î ¸ðµç ÀúÀåµÈ ¼¼¼ÇÀ» Áö¿ì°Ô µË\n"
+"´Ï´Ù. ÁøÂ¥·Î ¸ðµç Á¤º¸¸¦ Áö¿ì½Ã°Ú½À´Ï±î?\n"
+
+# config.c:691
+msgid "Too many forwardings"
+msgstr "Æ÷¿öµùÀÌ ³Ê¹« ¸¹½À´Ï´Ù"
+
+# settings.c:284 settings.c:539
+msgid "TryPalette"
+msgstr ""
+
+# unicode.c:386
+msgid "UTF-8"
+msgstr ""
+
+# winstore.c:80
+msgid ""
+"Unable to create registry key\n"
+"HKEY_CURRENT_USER%s"
+msgstr ""
+"´ÙÀ½ ·¹Áö½ºÆ®¸® Å°¸¦ ¸¸µé ¼ö ¾ø½À´Ï´Ù:\n"
+"HKEY_CURRENT_USER%s"
+
+# winstore.c:88
+msgid ""
+"Unable to create registry key\n"
+"HKEY_CURRENT_USER%s\\%s"
+msgstr ""
+"´ÙÀ½ ·¹Áö½ºÆ®¸® Å°¸¦ ¸¸µé ¼ö ¾ø½À´Ï´Ù:\n"
+"HKEY_CURRENT_USER%s\\%s"
+
+# winnet.c:515
+msgid "Unable to get list of local IP addresses"
+msgstr ""
+
+# winnet.c:220
+msgid "Unable to initialise WinSock"
+msgstr "WinSockÀ» ÃÊ±âÈ­ÇÒ ¼ö ¾ø½À´Ï´Ù"
+
+# winnet.c:190
+msgid "Unable to load any WinSock library"
+msgstr "WinSock ¶óÀÌºê·¯¸®¸¦ ÀÐ¾î¿Ã ¼ö ¾ø½À´Ï´Ù"
+
+# window.c:615
+msgid ""
+"Unable to open connection to\n"
+"%.800s\n"
+"%s"
+msgstr ""
+"%.800s¿¡ Á¢¼ÓÇÒ ¼ö ¾ø½À´Ï´Ù.\n"
+"%s"
+
+# window.c:4452
+msgid ""
+"Unable to play sound file\n"
+"%s\n"
+"Using default sound instead"
+msgstr ""
+"´ÙÀ½ ¼Ò¸® ÆÄÀÏÀ» Àç»ýÇÒ ¼ö ¾ø½À´Ï´Ù:\n"
+"%s\n"
+"±âº» ¼Ò¸®¸¦ ´ë½Å »ç¿ëÇÕ´Ï´Ù"
+
+# config.c:1092
+msgid "Underline"
+msgstr "¹ØÁÙ (U)"
+
+# version.c:20
+msgid "Unidentified build, "
+msgstr ""
+
+# winnet.c:322
+msgid "Unknown network error"
+msgstr "¾Ë ¼ö ¾ø´Â ³×Æ®¿öÅ© ¿¡·¯"
+
+# window.c:466
+msgid "Unsupported protocol number found"
+msgstr "Áö¿øµÇ´Â ÇÁ·ÎÅäÄÝ ¹øÈ£°¡ ¾Æ´Õ´Ï´Ù"
+
+# config.c:1159
+msgid "Use Unicode line drawing code points"
+msgstr "À¯´ÏÄÚµå ¼±¹®ÀÚ »ç¿ë (U)"
+
+# config.c:902
+msgid "Use background colour to erase screen"
+msgstr "¹è°æ»öÀ¸·Î È­¸é Áö¿ò (E)"
+
+# unicode.c:411 unicode.c:1104
+msgid "Use font encoding"
+msgstr "±Û²Ã ±âº» ÀÎÄÚµù »ç¿ë"
+
+# wincfg.c:210
+msgid "Use font in OEM mode only"
+msgstr "±Û²ÃÀ» OEM ¸ðµå·Î¸¸ »ç¿ë"
+
+# wincfg.c:208
+msgid "Use font in both ANSI and OEM modes"
+msgstr "ANSI¿Í OEM¸ðµå ¸ðµÎ »ç¿ë (B)"
+
+# wincfg.c:272
+msgid "Use system colours"
+msgstr "½Ã½ºÅÛ ÄÃ·¯ ¾¸ (S)"
+
+# settings.c:283 settings.c:538
+msgid "UseSystemColours"
+msgstr ""
+
+# settings.c:218 settings.c:469
+msgid "UserName"
+msgstr ""
+
+# config.c:1339
+msgid "Username"
+msgstr "»ç¿ëÀÚ¸í (U)"
+
+# window.c:3194
+msgid "VK_%02x"
+msgstr ""
+
+# unicode.c:391
+msgid "VSCII"
+msgstr ""
+
+# config.c:955
+msgid "VT100+"
+msgstr ""
+
+# config.c:955
+msgid "VT400"
+msgstr ""
+
+# config.c:1383
+msgid "Value"
+msgstr "°ª(L)"
+
+# config.c:1379
+msgid "Variable"
+msgstr "º¯¼ö(V)"
+
+# config.c:1093
+msgid "Vertical line"
+msgstr "¼¼·ÎÁÙ (V)"
+
+# config.c:982
+msgid "Visual bell (flash window)"
+msgstr "½Ã°¢ º§ (Ã¢ ¹øÂ½ÀÓ)"
+
+# settings.c:19
+msgid "WARN"
+msgstr ""
+
+# windlg.c:723
+msgid ""
+"WARNING - POTENTIAL SECURITY BREACH!\n"
+"\n"
+"The server's host key does not match the one %s has\n"
+"cached in the registry. This means that either the\n"
+"server administrator has changed the host key, or you\n"
+"have actually connected to another computer pretending\n"
+"to be the server.\n"
+"The new %s key fingerprint is:\n"
+"%s\n"
+"If you were expecting this change and trust the new key,\n"
+"hit Yes to update %s's cache and continue connecting.\n"
+"If you want to carry on connecting but without updating\n"
+"the cache, hit No.\n"
+"If you want to abandon the connection completely, hit\n"
+"Cancel. Hitting Cancel is the ONLY guaranteed safe\n"
+"choice.\n"
+msgstr ""
+"°æ°í - ÀáÀçÀû º¸¾È À§Çè!\n"
+"\n"
+"¼­¹öÀÇ È£½ºÆ® Å°°¡ ·¹Áö½ºÆ®¸®¿¡ ÀúÀåµÈ %s ¿Í ¸ÂÁö\n"
+"¾Ê½À´Ï´Ù. Áï, ¼­¹ö °ü¸®ÀÚ°¡ È£½ºÆ® Å°¸¦ ¹Ù²Ù¾ú°Å³ª,\n"
+"½ÇÁ¦·Î´Â ÁøÂ¥ ¼­¹öÀÎÃ´ ÇÏ´Â ´Ù¸¥ À§Àå ¼­¹ö¿¡ Á¢¼ÓµÇ¾ú\n"
+"À» ¼öµµ ÀÖ½À´Ï´Ù.\n"
+"»õ·Î¿î %s Å° Áö¹®Àº:\n"
+"%s\n"
+"»õ·Î¿î ¼­¹ö¸¦ ¹Ï°í Å°¸¦ ¹Ù²Ù±â ¿øÇÏ½Å´Ù¸é, ¿¹¸¦ ´­·¯¼­\n"
+"·¹Áö½ºÆ®¸®ÀÇ Å°¸¦ ¾÷µ¥ÀÌÆ®ÇÏ°í Á¢¼ÓÀ» °è¼ÓÇÏ¼¼¿ä.\n"
+"Ä³½¬´Â ±×´ë·Î ³õ¾ÆµÎ°í ÀÌ¹ø Á¢¼Ó¸¸ Çã¿ëÇÏ±â ¿øÇÏ½Ã¸é\n"
+"¾Æ´Ï¿À¸¦ ´­·¯ÁÖ¼¼¿ä.\n"
+"¼­¹ö¸¦ ¹ÏÁö ¸øÇÏ´Â °æ¿ì¿¡´Â Ãë¼Ò¸¦ ´©¸£°í Á¢¼ÓÀ» Áß´Ü\n"
+"ÇÏ½Ã´Â °ÍÀÌ °¡Àå ¾ÈÀüÇÕ´Ï´Ù.\n"
+
+# window.c:2200
+msgid "WM_ENTERSIZEMOVE"
+msgstr ""
+
+# window.c:2210
+msgid "WM_EXITSIZEMOVE"
+msgstr ""
+
+# window.c:2316
+msgid "WM_SIZE %s (%d,%d)"
+msgstr ""
+
+# winnet.c:184
+msgid "WS2_32.DLL"
+msgstr ""
+
+# window.c:845
+msgid "WSAAsyncSelect(): unknown error"
+msgstr "WSAAsyncSelect(): ¾Ë ¼ö ¾ø´Â ¿¡·¯"
+
+# winnet.c:186
+msgid "WSOCK32.DLL"
+msgstr ""
+
+# config.c:1136
+msgid "Warn before closing window"
+msgstr "Ã¢ ´Ý±â Àü¿¡ °æ°í (W)"
+
+# settings.c:181 settings.c:400
+msgid "WarnOnClose"
+msgstr ""
+
+# config.c:880
+msgid "What to do if the log file already exists:"
+msgstr "·Î±× ÆÄÀÏÀÌ ÀÌ¹Ì ÀÖÀ» ¶§ (E):"
+
+# wincfg.c:281
+msgid "When window is resized:"
+msgstr "Ã¢ Å©±â°¡ ¹Ù²î¾úÀ» ¶§ (Z):"
+
+# settings.c:654
+msgid "WideBoldFont"
+msgstr ""
+
+# settings.c:653
+msgid "WideFont"
+msgstr ""
+
+# unicode.c:394
+msgid "Win1250 (Central European)"
+msgstr "Win1250 (Áß¾Ó À¯·´) "
+
+# unicode.c:395
+msgid "Win1251 (Cyrillic)"
+msgstr "Win1251 (Å°¸±)"
+
+# unicode.c:396
+msgid "Win1252 (Western)"
+msgstr "Win1252 (¼­À¯·´"
+
+# unicode.c:397
+msgid "Win1253 (Greek)"
+msgstr "Win1253 (±×¸®½º¾î)"
+
+# unicode.c:398
+msgid "Win1254 (Turkish)"
+msgstr "Win1254 (ÅÍÅ°¾î)"
+
+# unicode.c:399
+msgid "Win1255 (Hebrew)"
+msgstr "Win1255 (È÷ºê¸®¾î)"
+
+# unicode.c:400
+msgid "Win1256 (Arabic)"
+msgstr "Win1256 (¾Æ¶ø¾î) "
+
+# unicode.c:401
+msgid "Win1257 (Baltic)"
+msgstr "Win1257 (¹ßÆ®¾î)"
+
+# unicode.c:402
+msgid "Win1258 (Vietnamese)"
+msgstr "Win1258 (º£Æ®³²¾î)"
+
+# settings.c:277 settings.c:532
+msgid "WinNameAlways"
+msgstr ""
+
+# winnet.c:224
+msgid "WinSock version is incompatible with %d.%d"
+msgstr "WInSock ¹öÀü %d.%d¿Í´Â È£È¯µÇÁö ¾Ê½À´Ï´Ù"
+
+# settings.c:278 settings.c:533
+msgid "WinTitle"
+msgstr ""
+
+# config.c:1044 config.c:1047 config.c:1059 wincfg.c:59 wincfg.c:280
+msgid "Window"
+msgstr "Ã¢"
+
+# wincfg.c:296
+msgid "Window closes on ALT-F4"
+msgstr "Alt-F4¸¦ ´©¸£¸é Ã¢À» ´ÝÀ½"
+
+# config.c:1126
+msgid "Window title:"
+msgstr "Ã¢ Á¦¸ñ (T):"
+
+# config.c:1082 config.c:1085 config.c:1098 config.c:1104 config.c:1110
+# wincfg.c:169
+msgid "Window/Appearance"
+msgstr "Ã¢/¸ð¾ç"
+
+# config.c:1121 config.c:1124 config.c:1135 wincfg.c:295
+msgid "Window/Behaviour"
+msgstr "Ã¢/Æ¯¼º"
+
+# config.c:1216 config.c:1218 config.c:1225 wincfg.c:267
+msgid "Window/Colours"
+msgstr "Ã¢/»ö±ò"
+
+# config.c:1166 config.c:1168 config.c:1174 config.c:1188 wincfg.c:236
+# wincfg.c:247
+msgid "Window/Selection"
+msgstr "Ã¢/¼±ÅÃ"
+
+# config.c:1143 config.c:1146 config.c:1153 wincfg.c:180 wincfg.c:193
+msgid "Window/Translation"
+msgstr "Ã¢/º¯È¯"
+
+# settings.c:263 settings.c:517
+msgid "WindowBorder"
+msgstr ""
+
+# wincfg.c:253
+msgid "Windows (Middle extends, Right brings up menu)"
+msgstr "À©µµ¿ì (ÈÙ È®Àå, ¿À¸¥ÂÊ ¸Þ´º ¶ç¿ò)"
+
+# window.c:202
+msgid "Windows refuses to report a version"
+msgstr "À©µµ¿ì ¹öÀüÀ» ¾Ë ¼ö ¾ø½À´Ï´Ù"
+
+# settings.c:301 settings.c:577
+msgid "Wordness%d"
+msgstr ""
+
+# config.c:1614
+msgid "Workarounds for SSH server bugs"
+msgstr "SSH ¼­¹ö ¹ö±× ÇÇÇØ°¡±â"
+
+# config.c:1543
+msgid "X display location"
+msgstr "X µð½ºÇÃ·¹ÀÌ À§Ä¡"
+
+# config.c:1539
+msgid "X11 forwarding"
+msgstr "X11 Æ÷¿öµù"
+
+# settings.c:322 settings.c:608
+msgid "X11AuthType"
+msgstr ""
+
+# settings.c:321 settings.c:606
+msgid "X11Display"
+msgstr ""
+
+# settings.c:320 settings.c:605
+msgid "X11Forward"
+msgstr ""
+
+# config.c:1552
+msgid "XDM-Authorization-1"
+msgstr ""
+
+# config.c:954
+msgid "Xterm R6"
+msgstr ""
+
+# config.c:1338
+msgid "Yes"
+msgstr "¿¹"
+
+# windlg.c:856
+msgid ""
+"You are loading an SSH 2 private key which has an\n"
+"old version of the file format. This means your key\n"
+"file is not fully tamperproof. Future versions of\n"
+"%s may stop supporting this private key format,\n"
+"so we recommend you convert your key to the new\n"
+"format.\n"
+"\n"
+"You can perform this conversion by loading the key\n"
+"into PuTTYgen and then saving it again."
+msgstr ""
+"¿À·¡µÈ ¹öÀüÀÇ Çü½ÄÀ¸·Î µÈ SSH 2 °³ÀÎ Å°¸¦ ÀÐ¾î¿À°í\n"
+"ÀÖ½À´Ï´Ù. ¿¾ ¹öÀüÀÇ °³ÀÎ Å° ÆÄÀÏÀº ´Ù¸¥ »ç¶÷¿¡°Ô\n"
+"³ëÃâµÈ °æ¿ì ¾ÏÈ£±¸°¡ ¾ø´õ¶óµµ °³ÀÎ Å°¸¦ Ç®¾î³¾ ¼ö\n"
+"ÀÖ½À´Ï´Ù. %s´Â ¾ÕÀ¸·Î ÀÌ °³ÀÎ Å° Çü½ÄÀ» Áö¿øÇÏÁö\n"
+"¾ÊÀ» ¿¹Á¤ÀÔ´Ï´Ù. Áö±Ý ÀÌ ÆÄÀÏÀ» »õ·Î¿î Çü½ÄÀ¸·Î º¯È¯\n"
+"ÇÏ´Â °ÍÀÌ ÁÁ½À´Ï´Ù.\n"
+"\n"
+"º¯È¯Àº PuTTYgen¿¡¼­ Å°¸¦ ÀÐ¾ú´Ù°¡ ´Ù½Ã ÀúÀåÇÏ´Â °ÍÀ¸·Î\n"
+"½±°Ô º¯È¯ÇÒ ¼ö ÀÖ½À´Ï´Ù.\n"
+
+# config.c:671
+msgid ""
+"You need to specify a destination address\n"
+"in the form \"host.name:port\""
+msgstr ""
+"´ë»ó ÁÖ¼Ò´Â ´ÙÀ½ Çü½ÄÀ¸·Î ÀûÀ¸¼Å¾ß ÇÕ´Ï´Ù:\n"
+"\"È£½ºÆ®.ÀÌ¸§:Æ÷Æ®\""
+
+# config.c:661
+msgid "You need to specify a source port number"
+msgstr "¿øº» Æ÷Æ® ¹øÈ£¸¦ ÀûÀ¸¼Å¾ß ÇÕ´Ï´Ù"
+
+# $Id$
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2003-10-13 22:06+0900\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=CP949\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+# window.c:4244
+msgid "\\'%02x"
+msgstr ""
+
+# winstore.c:460
+msgid "\\PUTTY.RND"
+msgstr ""
+
+# winstore.c:12
+msgid "\\Sessions"
+msgstr ""
+
+# winstore.c:324 winstore.c:419
+msgid "\\SshHostKeys"
+msgstr ""
+
+# window.c:4242
+msgid "\\par\r\n"
+msgstr ""
+
+# window.c:4210
+msgid "\\u%d"
+msgstr ""
+
+# ssh.c:1976 ssh.c:1992
+msgid "\n"
+msgstr ""
+
+# window.c:3525 window.c:3689 window.c:3733 window.c:3745 window.c:3784
+msgid "%c"
+msgstr ""
+
+# window.c:3527
+msgid "?%c"
+msgstr ""
+
+# window.c:3529 window.c:3736 window.c:3747 window.c:3810
+msgid "O%c"
+msgstr ""
+
+# window.c:3751
+msgid "Ow"
+msgstr ""
+
+# window.c:3713 window.c:3722 window.c:3812
+msgid "[%c"
+msgstr ""
+
+# window.c:3755
+msgid "[%d~"
+msgstr ""
+
+# window.c:3751
+msgid "[H"
+msgstr ""
+
+# window.c:3740
+msgid "[[%c"
+msgstr ""
+
+# config.c:1225
+msgid "adjust"
+msgstr ""
+
+# settings.c:16
+msgid "aes"
+msgstr ""
+
+# config.c:957
+msgid "appkeypad"
+msgstr ""
+
+# config.c:1298
+msgid "basics"
+msgstr ""
+
+# settings.c:17
+msgid "blowfish"
+msgstr ""
+
+# config.c:1110 wincfg.c:169
+msgid "border"
+msgstr ""
+
+# config.c:1188
+msgid "charclass"
+msgstr ""
+
+# windlg.c:795
+msgid "client-to-server "
+msgstr ""
+
+# settings.c:446
+msgid "connect %host %port\\n"
+msgstr ""
+
+# config.c:1085
+msgid "cursor"
+msgstr ""
+
+# config.c:1261 config.c:1369 config.c:1441 config.c:1466
+msgid "data"
+msgstr ""
+
+# settings.c:387
+msgid "default"
+msgstr ""
+
+# settings.c:20
+msgid "des"
+msgstr ""
+
+# config.c:10 dialog.c:14 wincfg.c:10 windlg.c:12
+msgid "dialog.h"
+msgstr ""
+
+# window.c:839
+msgid "do_select(): internal error (hwnd==NULL)"
+msgstr ""
+
+# config.c:1491
+msgid "encryption"
+msgstr ""
+
+# wincfg.c:94
+msgid "features"
+msgstr ""
+
+# config.c:1098
+msgid "font"
+msgstr ""
+
+# config.c:963 config.c:967 config.c:1185
+msgid "format"
+msgstr ""
+
+# config.c:892 config.c:1218 wincfg.c:267
+msgid "general"
+msgstr ""
+
+# winnet.c:354
+msgid "getaddrinfo"
+msgstr ""
+
+# winnet.c:387
+msgid "getaddrinfo: unknown error"
+msgstr ""
+
+# winnet.c:389
+msgid "gethostbyname: unknown error"
+msgstr ""
+
+# winnet.c:426
+msgid "getnameinfo"
+msgstr ""
+
+# config.c:773
+msgid "hostport"
+msgstr ""
+
+# windlg.c:218
+msgid "http://www.chiark.greenend.org.uk/~sgtatham/putty/"
+msgstr ""
+
+# wincfg.c:180
+msgid "input"
+msgstr ""
+
+# config.c:1273
+msgid "keepalive"
+msgstr ""
+
+# config.c:913
+msgid "ldisc"
+msgstr ""
+
+# config.c:1153 wincfg.c:193
+msgid "linedraw"
+msgstr ""
+
+# winnet.c:495
+msgid "localhost"
+msgstr ""
+
+# config.c:851 config.c:1009 config.c:1135 config.c:1616 wincfg.c:295
+msgid "main"
+msgstr ""
+
+# config.c:938
+msgid "mappings"
+msgstr ""
+
+# config.c:1508
+msgid "methods"
+msgstr ""
+
+# unicode.c:9
+msgid "misc.h"
+msgstr ""
+
+# config.c:1104 config.c:1174 wincfg.c:247
+msgid "mouse"
+msgstr ""
+
+# winnet.c:47
+msgid "network.h"
+msgstr ""
+
+# windlg.c:217
+msgid "open"
+msgstr ""
+
+# window.c:321
+msgid "option \"%s\" requires an argument"
+msgstr ""
+
+# config.c:837
+msgid "otheropts"
+msgstr ""
+
+# config.c:984
+msgid "overload"
+msgstr ""
+
+# config.c:1519
+msgid "params"
+msgstr ""
+
+# config.c:1554
+msgid "portfwd"
+msgstr ""
+
+# config.c:927
+msgid "printing"
+msgstr ""
+
+# config.c:1406 config.c:1473
+msgid "protocol"
+msgstr ""
+
+# settings.c:439
+msgid "proxy"
+msgstr ""
+
+# window.c:1757
+msgid "putty &%p"
+msgstr ""
+
+# window.c:1769
+msgid "putty @%s"
+msgstr ""
+
+# window.c:236
+msgid "putty.cnt"
+msgstr ""
+
+# config.c:9 dialog.c:13 settings.c:7 ssh.c:6 unicode.c:7 wincfg.c:9
+# windlg.c:8 window.c:8 winnet.c:46 winstore.c:9
+msgid "putty.h"
+msgstr ""
+
+# window.c:230
+msgid "putty.hlp"
+msgstr ""
+
+# window.c:231 window.c:237
+msgid "r"
+msgstr ""
+
+# settings.c:170
+msgid "raw"
+msgstr ""
+
+# window.c:1389
+msgid "reset_window()"
+msgstr ""
+
+# window.c:1404
+msgid "reset_window() -- Forced deinit"
+msgstr ""
+
+# window.c:1471
+msgid "reset_window() -> Forced re-init"
+msgstr ""
+
+# window.c:1422
+msgid "reset_window() -> Reposition terminal"
+msgstr ""
+
+# window.c:1443
+msgid "reset_window() -> Z font resize to (%d, %d)"
+msgstr ""
+
+# window.c:1459
+msgid "reset_window() -> Zoomed term_size"
+msgstr ""
+
+# window.c:1575
+msgid "reset_window() -> font resize to (%d,%d)"
+msgstr ""
+
+# window.c:1538
+msgid "reset_window() -> term resize to (%d,%d)"
+msgstr ""
+
+# window.c:1551
+msgid "reset_window() -> window resize to (%d,%d)"
+msgstr ""
+
+# ssh.c:2444 winstore.c:332
+msgid "rsa"
+msgstr ""
+
+# config.c:949
+msgid "rxvt"
+msgstr ""
+
+# config.c:805
+msgid "savedsessions"
+msgstr ""
+
+# config.c:1059 wincfg.c:59
+msgid "scrollback"
+msgstr ""
+
+# windlg.c:796
+msgid "server-to-client "
+msgstr ""
+
+# config.c:1047 wincfg.c:280
+msgid "size"
+msgstr ""
+
+# ssh.c:8 windlg.c:9
+msgid "ssh.h"
+msgstr ""
+
+# config.c:11 settings.c:8 wincfg.c:11 windlg.c:11 window.c:10
+# winstore.c:10
+msgid "storage.h"
+msgstr ""
+
+# config.c:976 wincfg.c:120
+msgid "style"
+msgstr ""
+
+# config.c:1281
+msgid "tcp"
+msgstr ""
+
+# window.c:360
+msgid "telnet:"
+msgstr ""
+
+# unicode.c:8 window.c:9
+msgid "terminal.h"
+msgstr ""
+
+# config.c:1124
+msgid "title"
+msgstr ""
+
+# window.c:2319
+msgid "to"
+msgstr ""
+
+# config.c:1146 config.c:1168 wincfg.c:236
+msgid "trans"
+msgstr ""
+
+# ssh.c:7 winnet.c:48
+msgid "tree234.h"
+msgstr ""
+
+# winnet.c:1370
+msgid "unix sockets not supported on this platform"
+msgstr "ÀÌ ÇÃ·§Æû¿¡¼­´Â À¯´Ð½º ¼ÒÄÏÀ» ¾µ ¼ö ¾ø½À´Ï´Ù"
+
+# window.c:399
+msgid "unknown option \"%s\""
+msgstr ""
+
+# windlg.c:10 window.c:11
+msgid "win_res.h"
+msgstr ""
+
+# winnet.c:351
+msgid "wship6.dll"
+msgstr ""
+
+# config.c:1539 ssh.c:5988
+msgid "x11"
+msgstr ""
+
+# settings.c:409
+msgid "xterm"
+msgstr ""
+
+# wincfg.c:254
+msgid "xterm (Right extends, Middle pastes)"
+msgstr "xterm (¿À¸¥ÂÊ È®Àå, ÈÙ ºÙ¿©³Ö±â)"
+
+# window.c:4167
+msgid "{\\rtf1\\ansi%d{\\fonttbl\\f0\\fmodern %s;}\\f0"
+msgstr ""
+
+# window.c:4206
+msgid "{\\uc%d\\u%d"
+msgstr ""
+
+# window.c:4208 window.c:4255
+msgid "}"
+msgstr ""
