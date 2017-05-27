@@ -1,7 +1,7 @@
 iPuTTY on KLDP.net
 ==
 
-이 repository는 2003년 부터 2012년 초까지 KLDP.net의 project 유지되었던 CVS 및 SVN repository 보존용 입니다.
+이 repository는 2003년 부터 2012년 초까지 KLDP.net의 project 유지되었던 CVS 및 SVN repository 보존용 입니다. 최신 버전은 https://github.com/iPuTTY/iPuTTY 를 이용하십시오.
 
 이 시기에 배포된 버전을 다운로드 받으려면 http://kldp.net/iputty/release/ 를 이용하십시오.
 
